@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "d:\\dev\\python\\projects\\github-scraper\\venv\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}

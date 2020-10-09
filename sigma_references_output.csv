@@ -1,0 +1,867 @@
+id,reference,date,modified,file
+fd435618-981e-4a7c-81f8-f78ce480d616,https://docs.djangoproject.com/en/1.11/ref/exceptions/,2017/08/05,,Django Framework Exceptions
+fd435618-981e-4a7c-81f8-f78ce480d616,https://docs.djangoproject.com/en/1.11/topics/logging/#django-security,2017/08/05,,Django Framework Exceptions
+0d2c3d4c-4b48-4ac3-8f23-ea845746bb1a,http://edgeguides.rubyonrails.org/security.html,2017/08/06,,Ruby on Rails Framework Exceptions
+0d2c3d4c-4b48-4ac3-8f23-ea845746bb1a,http://guides.rubyonrails.org/action_controller_overview.html,2017/08/06,,Ruby on Rails Framework Exceptions
+0d2c3d4c-4b48-4ac3-8f23-ea845746bb1a,https://stackoverflow.com/questions/25892194/does-rails-come-with-a-not-authorized-exception,2017/08/06,,Ruby on Rails Framework Exceptions
+0d2c3d4c-4b48-4ac3-8f23-ea845746bb1a,https://github.com/rails/rails/blob/master/actionpack/lib/action_dispatch/middleware/exception_wrapper.rb,2017/08/06,,Ruby on Rails Framework Exceptions
+ae48ab93-45f7-4051-9dfe-5d30a3f78e33,https://docs.spring.io/spring-security/site/docs/current/apidocs/overview-tree.html,2017/08/06,,Spring Framework Exceptions
+19aefed0-ffd4-47dc-a7fc-f8b1425e84f9,https://www.python.org/dev/peps/pep-0249/#exceptions,2017/08/12,,Python SQL Exceptions
+8a670c6d-7189-4b1c-8017-a417ca84a086,http://www.sqlinjection.net/errors,2017/11/27,,Suspicious SQL Error Messages
+170901d1-de11-4de7-bccb-8fa13678d857,,2019/11/01,2019/11/22,Silence.Downloader V3
+3ceb2083-a27f-449a-be33-14ec1b7cc973,,2019/11/01,2019/11/20,Silence.EDA Detection
+4db60cc0-36fb-42b7-9b58-a5b53019fb74,https://docs.aws.amazon.com/awscloudtrail/latest/userguide/best-practices-security.html,2020/01/21,,AWS CloudTrail Important Change
+07330162-dba1-4746-8121-a9647d49d297,,2020/01/21,,AWS Config Disabling Channel/Recorder
+26ff4080-194e-47e7-9889-ef7602efed0c,https://github.com/RhinoSecurityLabs/pacu/blob/master/modules/ec2__download_userdata/main.py#L24,2020/02/11,,AWS EC2 Download Userdata
+1ab3c5ed-5baf-417b-bb6b-78ca33f6c3df,https://github.com/RhinoSecurityLabs/pacu/blob/master/modules/ec2__startup_shell_script/main.py#L9,2020/02/12,,AWS EC2 Startup Shell Script Change
+6e61ee20-ce00-4f8d-8aee-bedd8216f7e3,https://github.com/RhinoSecurityLabs/pacu/blob/master/modules/guardduty__whitelist_ip/main.py#L9,2020/02/11,,AWS GuardDuty Important Change
+0a5177f4-6ca9-44c2-aacf-d3f3d8b6e4d2,https://github.com/RhinoSecurityLabs/pacu/blob/master/modules/iam__backdoor_users_keys/main.py#L6,2020/02/12,,AWS IAM Backdoor Users Keys
+8a63cdd4-6207-414a-85bc-7e032bd3c1a2,https://github.com/RhinoSecurityLabs/pacu/blob/master/modules/rds__explore_snapshots/main.py#L10,2020/02/12,,AWS RDS Master Password Change
+c3f265c7-ff03-4056-8ab2-d486227b4599,https://github.com/RhinoSecurityLabs/pacu/blob/master/modules/rds__explore_snapshots/main.py#L10,2020/02/12,,Restore Public AWS RDS Instance
+8ad1600d-e9dc-4251-b0ee-a65268f29add,https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html,2020/01/21,,AWS Root Credentials
+7e4bfe58-4a47-4709-828d-d86c78b7cc1f,https://www.cisecurity.org/controls/cis-controls-list/,2019/03/26,,Cleartext Protocol Usage
+7e4bfe58-4a47-4709-828d-d86c78b7cc1f,https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-2-1.pdf,2019/03/26,,Cleartext Protocol Usage
+7e4bfe58-4a47-4709-828d-d86c78b7cc1f,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf,2019/03/26,,Cleartext Protocol Usage
+1a395cbc-a84a-463a-9086-ed8a70e573c7,https://www.cisecurity.org/controls/cis-controls-list/,2019/03/26,,Default Credentials Usage
+1a395cbc-a84a-463a-9086-ed8a70e573c7,https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-2-1.pdf,2019/03/26,,Default Credentials Usage
+1a395cbc-a84a-463a-9086-ed8a70e573c7,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf,2019/03/26,,Default Credentials Usage
+1a395cbc-a84a-463a-9086-ed8a70e573c7,https://community.qualys.com/docs/DOC-6406-reporting-toolbox-focused-search-lists,2019/03/26,,Default Credentials Usage
+9cf01b6c-e723-4841-a868-6d7f8245ca6e,https://www.cisecurity.org/controls/cis-controls-list/,2019/03/26,,Group Modification Logging
+9cf01b6c-e723-4841-a868-6d7f8245ca6e,https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-2-1.pdf,2019/03/26,,Group Modification Logging
+9cf01b6c-e723-4841-a868-6d7f8245ca6e,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf,2019/03/26,,Group Modification Logging
+9cf01b6c-e723-4841-a868-6d7f8245ca6e,https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4728,2019/03/26,,Group Modification Logging
+9cf01b6c-e723-4841-a868-6d7f8245ca6e,https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4729,2019/03/26,,Group Modification Logging
+9cf01b6c-e723-4841-a868-6d7f8245ca6e,https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4730,2019/03/26,,Group Modification Logging
+9cf01b6c-e723-4841-a868-6d7f8245ca6e,https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=633,2019/03/26,,Group Modification Logging
+9cf01b6c-e723-4841-a868-6d7f8245ca6e,https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=632,2019/03/26,,Group Modification Logging
+9cf01b6c-e723-4841-a868-6d7f8245ca6e,https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=634,2019/03/26,,Group Modification Logging
+6b2066c8-3dc7-4db7-9db0-6cc1d7b0dde9,https://www.cisecurity.org/controls/cis-controls-list/,2019/03/19,,Host Without Firewall
+6b2066c8-3dc7-4db7-9db0-6cc1d7b0dde9,https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-2-1.pdf,2019/03/19,,Host Without Firewall
+6b2066c8-3dc7-4db7-9db0-6cc1d7b0dde9,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf,2019/03/19,,Host Without Firewall
+411742ad-89b0-49cb-a7b0-3971b5c1e0a4,https://www.cisecurity.org/controls/cis-controls-list/,2019/03/26,,Locked Workstation
+411742ad-89b0-49cb-a7b0-3971b5c1e0a4,https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-2-1.pdf,2019/03/26,,Locked Workstation
+411742ad-89b0-49cb-a7b0-3971b5c1e0a4,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf,2019/03/26,,Locked Workstation
+411742ad-89b0-49cb-a7b0-3971b5c1e0a4,https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4800,2019/03/26,,Locked Workstation
+53c7cca0-2901-493a-95db-d00d6fcf0a37,,2019/10/25,,Brute Force
+41e5c73d-9983-4b69-bd03-e13b67e9623c,https://medium.com/@shadowbrokerss/dont-forget-your-base-867d304a94b1,2017/04/09,,Equation Group Indicators
+18b042f0-2ecd-4b6e-9f8d-aa7a7e7de781,https://github.com/ossec/ossec-hids/blob/master/etc/rules/attack_rules.xml,2017/03/01,,Buffer Overflow Attempts
+a5b977d6-8a81-4475-91b9-49dbfcd941f7,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1222/T1222.yaml,2019/09/23,,Remove Immutable File Attribute
+36aa86ca-fd9d-4456-814e-d3b1b8e1e0bb,https://github.com/ossec/ossec-hids/blob/master/etc/rules/clam_av_rules.xml,2017/03/01,,Relevant ClamAV Message
+37222991-11e9-4b6d-8bdf-60fbe48f753e,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1485/T1485.yaml,2019/10/23,,Overwriting the File with Dev Zero or Null
+74c01ace-0152-4094-8ae2-6fd776dd43e5,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1222/T1222.yaml,2019/09/23,,File or Folder Permissions Change
+2625cc59-0634-40d0-821e-cb67382a3dd7,https://attack.mitre.org/techniques/T1501/,2019/09/23,,Systemd Service Reload or Start
+2625cc59-0634-40d0-821e-cb67382a3dd7,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1501/T1501.yaml,2019/09/23,,Systemd Service Reload or Start
+c67e0c98-4d39-46ee-8f6b-437ebf6b950e,http://rubular.com/r/zxBfjWfFYs,2017/03/14,,Shellshock Expression
+fdc88d25-96fb-4b7c-9633-c0e417fdbd4e,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1146/T1146.yaml,2019/03/24,,Clear Command History
+fdc88d25-96fb-4b7c-9633-c0e417fdbd4e,https://attack.mitre.org/techniques/T1146/,2019/03/24,,Clear Command History
+fdc88d25-96fb-4b7c-9633-c0e417fdbd4e,https://www.hackers-arise.com/single-post/2016/06/20/Covering-your-BASH-Shell-Tracks-AntiForensics,2019/03/24,,Clear Command History
+444ade84-c362-4260-b1f3-e45e20e1a905,https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/,2019/04/05,,Privilege Escalation Preparation
+444ade84-c362-4260-b1f3-e45e20e1a905,https://patrick-bareiss.com/detect-privilege-escalation-preparation-in-linux-with-sigma/,2019/04/05,,Privilege Escalation Preparation
+2aa1440c-9ae9-4d92-84a7-a9e5f5e31695,Suspicious Activity in Shell Commands,http://www.threatgeek.com/2017/03/widespread-exploitation-attempts-using-cve-2017-5638.html,2017/08/21,2019/02/05
+2aa1440c-9ae9-4d92-84a7-a9e5f5e31695,Suspicious Activity in Shell Commands,https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/multi/http/struts_code_exec_exception_delegator.rb#L121,2017/08/21,2019/02/05
+2aa1440c-9ae9-4d92-84a7-a9e5f5e31695,Suspicious Activity in Shell Commands,http://pastebin.com/FtygZ1cg,2017/08/21,2019/02/05
+2aa1440c-9ae9-4d92-84a7-a9e5f5e31695,Suspicious Activity in Shell Commands,https://artkond.com/2017/03/23/pivoting-guide/,2017/08/21,2019/02/05
+f64b6e9a-5d9d-48a5-8289-e1dd2b3876e1,,2017/03/25,,Suspicious Log Entries
+738d9bcf-6999-4fdb-b4ac-3033037db8ab,https://alamot.github.io/reverse_shells/,2019/04/02,,Suspicious Reverse Shell Command Line
+4c9d903d-4939-4094-ade0-3cb748f4d7da,https://github.com/Rhynorater/CVE-2018-15473-Exploit,2017/08/24,,SSHD Error Message CVE-2018-15473
+f74107df-b6c6-4e80-bf00-4170b658162b,Sudo Privilege Escalation CVE-2019-14287,https://www.openwall.com/lists/oss-security/2019/10/14/1,2019/10/15,2019/10/20
+f74107df-b6c6-4e80-bf00-4170b658162b,Sudo Privilege Escalation CVE-2019-14287,https://access.redhat.com/security/cve/cve-2019-14287,2019/10/15,2019/10/20
+f74107df-b6c6-4e80-bf00-4170b658162b,Sudo Privilege Escalation CVE-2019-14287,https://twitter.com/matthieugarin/status/1183970598210412546,2019/10/15,2019/10/20
+fc947f8e-ea81-4b14-9a7b-13f888f94e18,,2017/02/16,,Failed Logins with Different Accounts from Single Source System
+8ec2c8b4-557a-4121-b87c-5dfb3a602fae,https://www.us-cert.gov/ncas/analysis-reports/AR18-312A,2017/08/24,,JexBoss Command Sequence
+c8e35e96-19ce-4f16-aeb6-fd5588dc5365,https://github.com/ossec/ossec-hids/blob/master/etc/rules/named_rules.xml,2018/02/20,,Suspicious Named Error
+e76b413a-83d0-4b94-8e4c-85db4a5b8bdc,https://github.com/openssh/openssh-portable/blob/master/ssherr.c,2017/06/30,,Suspicious SSHD Error
+e76b413a-83d0-4b94-8e4c-85db4a5b8bdc,https://github.com/ossec/ossec-hids/blob/master/etc/rules/sshd_rules.xml,2017/06/30,,Suspicious SSHD Error
+377f33a1-4b36-4ee1-acee-1dbe4b43cfbe,https://github.com/dagwieers/vsftpd/,2017/07/05,,Suspicious VSFTPD Error Messages
+e74e15cc-c4b6-4c80-b7eb-dfe49feb7fe9,MITRE Attack technique T1156; .bash_profile and .bashrc. ,2019/05/12,,Edit of .bash_profile and .bashrc
+977ef627-4539-4875-adf4-ed8f780c4922,https://github.com/Neo23x0/auditd/blob/master/audit.rules,2019/10/25,,Auditing Configuration Changes on Linux Host
+977ef627-4539-4875-adf4-ed8f780c4922,self experience,2019/10/25,,Auditing Configuration Changes on Linux Host
+4b3cb710-5e83-4715-8c45-8b2b5b3e5751,Modification of ld.so.preload,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1055/T1055.yaml,2019/10/24,2019/11/11
+4b3cb710-5e83-4715-8c45-8b2b5b3e5751,Modification of ld.so.preload,https://eqllib.readthedocs.io/en/latest/analytics/fd9b987a-1101-4ed3-bda6-a70300eaf57e.html,2019/10/24,2019/11/11
+c830f15d-6f6e-430f-8074-6f73d6807841,self experience,2019/10/25,,Logging Configuration Changes on Linux Host
+9d4548fa-bba0-4e88-bd66-5d5bf516cda0,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1036/T1036.yaml,2019/10/21,,Masquerading as Linux Crond Process
+1543ae20-cbdf-4ec1-8d12-7664d667a825,Internal Research - mostly derived from exploit code including code in MSF,2017/12/12,,Suspicious Commands Linux
+a39d7fa7-3fbd-4dc2-97e1-d87f546b1bbc,Internal Research,2018/01/23,,Program Executions in Suspicious Folders
+9a0d8ca0-2385-4020-b6c6-cb6153ca56f3,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1033/T1033.yaml,2019/10/21,,System Owner or User Discovery
+c0d3734d-330f-4a03-aae2-65dacc6a8222,Webshell Remote Command Execution,personal experience,2019/10/12,2019/11/04
+a3b5e3e9-1b49-4119-8b8e-0344a01f21ee,Data Compressed,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1002/T1002.yaml,2019/10/21,2019/11/04
+f4d3748a-65d1-4806-bd23-e25728081d01,Network Sniffing,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1040/T1040.yaml,2019/10/21,2019/11/04
+a06eea10-d932-4aa6-8ba9-186df72c8d23,,2017/02/28,,Multiple Modsecurity Blocks
+881834a4-6659-4773-821e-1c151789d873,https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation,2017/04/15,,Equation Group C2 Communication
+881834a4-6659-4773-821e-1c151789d873,https://medium.com/@msuiche/the-nsa-compromised-swift-network-50ec3000b195,2017/04/15,,Equation Group C2 Communication
+1ec4b281-aa65-46a2-bdae-5fd830ed914e,https://zeltser.com/c2-dns-tunneling/,2019/04/07,,Possible DNS Tunneling
+1ec4b281-aa65-46a2-bdae-5fd830ed914e,https://patrick-bareiss.com/detect-c2-traffic-over-dns-using-sigma/,2019/04/07,,Possible DNS Tunneling
+0f6c1bf5-70a5-4963-aef9-aab1eefb50bd,,2019/10/24,,High DNS Bytes Out
+b4163085-4001-46a3-a79a-55d8bbbc7a3a,,2019/10/24,,High DNS Requests Rate
+44ae5117-9c44-40cf-9c7c-7edad385ca70,,2019/10/24,,High NULL Records Requests Rate
+f0a8cedc-1d22-4453-9c44-8d9f4ebd5d35,,2019/10/24,,High TXT Records Requests Rate
+2975af79-28c4-4d2f-a951-9095f229df29,https://www.icebrg.io/blog/footprints-of-fin7-tracking-actor-patterns,2018/05/10,,Cobalt Strike DNS Beaconing
+4153a907-2451-4e4f-a578-c52bb6881432,https://github.com/krmaxwell/dns-exfiltration,2018/05/10,,Suspicious DNS Query with B64 Encoded String
+8ae51330-899c-4641-8125-e39f2e07da72,https://twitter.com/stvemillertime/status/1024707932447854592,2018/08/08,,DNS TXT Answer with Possible Execution Strings
+8ae51330-899c-4641-8125-e39f2e07da72,https://github.com/samratashok/nishang/blob/master/Backdoors/DNS_TXT_Pwnage.ps1,2018/08/08,,DNS TXT Answer with Possible Execution Strings
+fab0ddf0-b8a9-4d70-91ce-a20547209afb,,2017/02/19,,Network Scans
+c64c5175-5189-431b-a55e-6d9882158251,https://core.telegram.org/bots/faq,2018/06/05,,Telegram Bot API Request
+c64c5175-5189-431b-a55e-6d9882158251,https://researchcenter.paloaltonetworks.com/2018/03/unit42-telerat-another-android-trojan-leveraging-telegrams-bot-api-to-target-iranian-users/,2018/06/05,,Telegram Bot API Request
+c64c5175-5189-431b-a55e-6d9882158251,https://blog.malwarebytes.com/threat-analysis/2016/11/telecrypt-the-ransomware-abusing-telegram-api-defeated/,2018/06/05,,Telegram Bot API Request
+c64c5175-5189-431b-a55e-6d9882158251,https://www.welivesecurity.com/2016/12/13/rise-telebots-analyzing-disruptive-killdisk-attacks/,2018/06/05,,Telegram Bot API Request
+503fe26e-b5f2-4944-a126-eab405cc06e5,https://adsecurity.org/?p=3458,2020/02/12,,Kerberos Network Traffic RC4 Ticket Encryption
+ceb407f6-8277-439b-951f-e4210e3ed956,https://attack.mitre.org/techniques/T1146/,2019/08/12,,Cisco Clear Logs
+ceb407f6-8277-439b-951f-e4210e3ed956,https://attack.mitre.org/techniques/T1070/,2019/08/12,,Cisco Clear Logs
+cd072b25-a418-4f98-8ebc-5093fb38fe1a,https://attack.mitre.org/techniques/T1087/,2019/08/11,,Cisco Collect Data
+cd072b25-a418-4f98-8ebc-5093fb38fe1a,https://attack.mitre.org/techniques/T1003/,2019/08/11,,Cisco Collect Data
+cd072b25-a418-4f98-8ebc-5093fb38fe1a,https://attack.mitre.org/techniques/T1081/,2019/08/11,,Cisco Collect Data
+cd072b25-a418-4f98-8ebc-5093fb38fe1a,https://attack.mitre.org/techniques/T1005/,2019/08/11,,Cisco Collect Data
+1f978c6a-4415-47fb-aca5-736a44d7ca3d,https://attack.mitre.org/techniques/T1145/,2019/08/12,,Cisco Crypto Commands
+1f978c6a-4415-47fb-aca5-736a44d7ca3d,https://attack.mitre.org/techniques/T1130/,2019/08/12,,Cisco Crypto Commands
+9e8f6035-88bf-4a63-96b6-b17c0508257e,https://attack.mitre.org/techniques/T1089,2019/08/11,,Cisco Disabling Logging
+9705a6a1-6db6-4a16-a987-15b7151e299b,https://attack.mitre.org/tactics/TA0007/,2019/08/12,,Cisco Discovery
+d94a35f0-7a29-45f6-90a0-80df6159967c,https://attack.mitre.org/techniques/T1499/,2019/08/15,,Cisco Denial of Service
+d94a35f0-7a29-45f6-90a0-80df6159967c,https://attack.mitre.org/techniques/T1495/,2019/08/15,,Cisco Denial of Service
+71d65515-c436-43c0-841b-236b1f32c21e,https://attack.mitre.org/techniques/T1107/,2019/08/12,,Cisco Show Commands Input
+71d65515-c436-43c0-841b-236b1f32c21e,https://attack.mitre.org/techniques/T1488/,2019/08/12,,Cisco Show Commands Input
+71d65515-c436-43c0-841b-236b1f32c21e,https://attack.mitre.org/techniques/T1487/,2019/08/12,,Cisco Show Commands Input
+b094d9fb-b1ad-4650-9f1a-fb7be9f1d34b,https://attack.mitre.org/techniques/T1056/,2019/08/11,,Cisco Show Commands Input
+b094d9fb-b1ad-4650-9f1a-fb7be9f1d34b,https://attack.mitre.org/techniques/T1139/,2019/08/11,,Cisco Show Commands Input
+6d844f0f-1c18-41af-8f19-33e7654edfc3,https://attack.mitre.org/techniques/T1098/,2019/08/12,,Cisco Local Accounts
+6d844f0f-1c18-41af-8f19-33e7654edfc3,https://attack.mitre.org/techniques/T1136/,2019/08/12,,Cisco Local Accounts
+671ffc77-50a7-464f-9e3d-9ea2b493b26b,https://attack.mitre.org/techniques/T1100/,2019/08/12,,Cisco Modify Configuration
+671ffc77-50a7-464f-9e3d-9ea2b493b26b,https://attack.mitre.org/techniques/T1168/,2019/08/12,,Cisco Modify Configuration
+671ffc77-50a7-464f-9e3d-9ea2b493b26b,https://attack.mitre.org/techniques/T1493/,2019/08/12,,Cisco Modify Configuration
+5e51acb2-bcbe-435b-99c6-0e3cd5e2aa59,https://attack.mitre.org/techniques/T1074/,2019/08/12,,Cisco Stage Data
+5e51acb2-bcbe-435b-99c6-0e3cd5e2aa59,https://attack.mitre.org/techniques/T1105/,2019/08/12,,Cisco Stage Data
+5e51acb2-bcbe-435b-99c6-0e3cd5e2aa59,https://attack.mitre.org/techniques/T1498/,2019/08/12,,Cisco Stage Data
+5e51acb2-bcbe-435b-99c6-0e3cd5e2aa59,https://attack.mitre.org/techniques/T1002/,2019/08/12,,Cisco Stage Data
+b9e1f193-d236-4451-aaae-2f3d2102120d,https://attack.mitre.org/techniques/T1040,2019/08/11,,Cisco Sniffing
+5ba715b6-71b7-44fd-8245-f66893e81b3d,Internal research from Florian Roth,2019/11/12,,APT40 Dropbox Tool User Agent
+fb502828-2db0-438e-93e6-801c7548686d,https://securelist.com/chafer-used-remexi-malware/89538/,2019/01/31,,Chafer Malware URL Pattern
+953b895e-5cc9-454b-b183-7f3db555452e,https://github.com/rsmudge/Malleable-C2-Profiles/blob/master/normal/amazon.profile,2019/11/12,,CobaltStrike Malleable Amazon Browsing Traffic Profile
+953b895e-5cc9-454b-b183-7f3db555452e,https://www.hybrid-analysis.com/sample/ee5eca8648e45e2fea9dac0d920ef1a1792d8690c41ee7f20343de1927cc88b9?environmentId=100,2019/11/12,,CobaltStrike Malleable Amazon Browsing Traffic Profile
+37325383-740a-403d-b1a2-b2b4ab7992e7,https://github.com/rsmudge/Malleable-C2-Profiles/blob/master/normal/ocsp.profile,2019/11/12,,CobaltStrike Malleable (OCSP) Profile
+c9b33401-cc6a-4cf6-83bb-57ddcb2407fc,https://github.com/rsmudge/Malleable-C2-Profiles/blob/master/normal/onedrive_getonly.profile,2019/11/12,,CobaltStrike Malleable OneDrive Browsing Traffic Profile
+e09aed7a-09e0-4c9a-90dd-f0d52507347e,https://mgreen27.github.io/posts/2018/04/02/DownloadCradle.html,2018/04/06,,Windows WebDAV User Agent
+195c1119-ef07-4909-bb12-e66f5e07bf3c,https://www.alienvault.com/blogs/security-essentials/dynamic-dns-security-and-potential-threats,2017/11/08,,Download from Suspicious Dyndns Hosts
+00d0b5ab-1f55-4120-8e83-487c0a7baf19,Download from Suspicious TLD,https://www.symantec.com/connect/blogs/shady-tld-research-gdn-and-our-2016-wrap,2017/11/07,2018/06/13
+00d0b5ab-1f55-4120-8e83-487c0a7baf19,Download from Suspicious TLD,https://promos.mcafee.com/en-US/PDF/MTMW_Report.pdf,2017/11/07,2018/06/13
+00d0b5ab-1f55-4120-8e83-487c0a7baf19,Download from Suspicious TLD,https://www.spamhaus.org/statistics/tlds/,2017/11/07,2018/06/13
+00d0b5ab-1f55-4120-8e83-487c0a7baf19,Download from Suspicious TLD,https://krebsonsecurity.com/2018/06/bad-men-at-work-please-dont-click/,2017/11/07,2018/06/13
+b5de2919-b74a-4805-91a7-5049accbaefe,,2017/03/13,,Download EXE from Suspicious TLD
+21e44d78-95e7-421b-a464-ffd8395659c4,https://twitter.com/Carlos_Perez/status/883455096645931008,2017/07/08,,Empty User Agent
+e06ac91d-b9e6-443d-8e5b-af749e7aa6b6,https://googleprojectzero.blogspot.com/2019/08/implant-teardown.html,2019/08/30,,iOS Implant URL Pattern
+e06ac91d-b9e6-443d-8e5b-af749e7aa6b6,https://twitter.com/craiu/status/1167358457344925696,2019/08/30,,iOS Implant URL Pattern
+c8557060-9221-4448-8794-96320e6f3e74,https://msdn.microsoft.com/powershell/reference/5.1/microsoft.powershell.utility/Invoke-WebRequest,2017/03/13,,Windows PowerShell User Agent
+5468045b-4fcc-4d1a-973c-c9c9578edacb,https://www.virustotal.com/gui/domain/paste.ee/relations,2019/12/05,,Raw Paste Service Access
+4922a5dd-6743-4fc2-8e81-144374280997,https://gist.github.com/roycewilliams/a723aaf8a6ac3ba4f817847610935cfb,2017/10/25,,Flash Player Update from Suspicious Location
+b494b165-6634-483d-8c47-2026a6c52372,https://researchcenter.paloaltonetworks.com/2018/03/unit42-telerat-another-android-trojan-leveraging-telegrams-bot-api-to-target-iranian-users/,2018/06/05,,Telegram API Access
+b494b165-6634-483d-8c47-2026a6c52372,https://blog.malwarebytes.com/threat-analysis/2016/11/telecrypt-the-ransomware-abusing-telegram-api-defeated/,2018/06/05,,Telegram API Access
+b494b165-6634-483d-8c47-2026a6c52372,https://www.welivesecurity.com/2016/12/13/rise-telebots-analyzing-disruptive-killdisk-attacks/,2018/06/05,,Telegram API Access
+6ec820f2-e963-4801-9127-d8b2dce4d31b,Internal Research,2019/11/12,,APT User Agent
+9eb68894-7476-4cd6-8752-23b51f5883a7,,2019/03/07,,Bitsadmin to Uncommon TLD
+fa935401-513b-467b-81f4-f9e77aa0dd78,https://github.com/xmrig/xmrig/blob/da22b3e6c45825f3ac1f208255126cb8585cd4fc/src/base/kernel/Platform_win.cpp#L65,2019/10/21,,Crypto Miner User Agent
+fa935401-513b-467b-81f4-f9e77aa0dd78,https://github.com/xmrig/xmrig/blob/427b6516e0550200c17ca28675118f0fffcc323f/src/version.h,2019/10/21,,Crypto Miner User Agent
+fdd1bfb5-f60b-4a35-910e-f36ed3d0b32f,https://blog.didierstevens.com/2015/03/16/quickpost-metasploit-user-agent-strings/,2017/07/08,,Exploit Framework User Agent
+c42a3073-30fb-48ae-8c99-c23ada84b103,https://github.com/fastly/waf_testbed/blob/master/templates/default/scanners-user-agents.data.erb,2017/07/08,,Hack Tool User Agent
+c42a3073-30fb-48ae-8c99-c23ada84b103,http://rules.emergingthreats.net/open/snort-2.9.0/rules/emerging-user_agents.rules,2017/07/08,,Hack Tool User Agent
+5c84856b-55a5-45f1-826f-13f37250cf4e,http://rules.emergingthreats.net/open/snort-2.9.0/rules/emerging-user_agents.rules,2017/07/08,,Malware User Agent
+5c84856b-55a5-45f1-826f-13f37250cf4e,http://www.botopedia.org/search?searchword=scan&searchphrase=all,2017/07/08,,Malware User Agent
+5c84856b-55a5-45f1-826f-13f37250cf4e,https://networkraptor.blogspot.com/2015/01/user-agent-strings.html,2017/07/08,,Malware User Agent
+5c84856b-55a5-45f1-826f-13f37250cf4e,https://perishablepress.com/blacklist/ua-2013.txt,2017/07/08,,Malware User Agent
+5c84856b-55a5-45f1-826f-13f37250cf4e,https://www.bluecoat.com/en-gb/security-blog/2015-05-05/know-your-agents,2017/07/08,,Malware User Agent
+7195a772-4b3f-43a4-a210-6a003d65caa1,https://github.com/fastly/waf_testbed/blob/master/templates/default/scanners-user-agents.data.erb,2017/07/08,,Suspicious User Agent
+a36ce77e-30db-4ea0-8795-644d7af5dfb4,,2019/12/19,,Ursnif Malware Download URL Pattern
+1da8ce0b-855d-4004-8860-7d64d42063b1,http://www.securityfocus.com/infocus/1633,2017/02/28,,Apache Segmentation Fault
+e9a2b582-3f6a-48ac-b4a1-6849cdc50b3c,https://github.com/hannob/apache-uaf/blob/master/README.md,2019/01/22,,Apache Threading Error
+ac5a6409-8c89-44c2-8d64-668c29a2d756,Citrix Netscaler Attack CVE-2019-19781,https://support.citrix.com/article/CTX267679,2020/01/02,2020/01/15
+ac5a6409-8c89-44c2-8d64-668c29a2d756,Citrix Netscaler Attack CVE-2019-19781,https://support.citrix.com/article/CTX267027,2020/01/02,2020/01/15
+ac5a6409-8c89-44c2-8d64-668c29a2d756,Citrix Netscaler Attack CVE-2019-19781,https://isc.sans.edu/diary/25686,2020/01/02,2020/01/15
+ac5a6409-8c89-44c2-8d64-668c29a2d756,Citrix Netscaler Attack CVE-2019-19781,https://twitter.com/mpgn_x64/status/1216787131210829826,2020/01/02,2020/01/15
+ac5a6409-8c89-44c2-8d64-668c29a2d756,Citrix Netscaler Attack CVE-2019-19781,https://github.com/x1sec/x1sec.github.io/blob/master/CVE-2019-19781-DFIR.md,2020/01/02,2020/01/15
+37e8369b-43bb-4bf8-83b6-6dd43bda2000,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-2894,2018/07/22,,Oracle WebLogic Exploit
+37e8369b-43bb-4bf8-83b6-6dd43bda2000,https://twitter.com/pyn3rd/status/1020620932967223296,2018/07/22,,Oracle WebLogic Exploit
+37e8369b-43bb-4bf8-83b6-6dd43bda2000,https://github.com/LandGrey/CVE-2018-2894,2018/07/22,,Oracle WebLogic Exploit
+fce2c2e2-0fb5-41ab-a14c-5391e1fd70a5,https://www.trustedsec.com/blog/detecting-cve-20200688-remote-code-execution-vulnerability-on-microsoft-exchange-server/,2020/02/29,,CVE-2020-0688 Exchange Exploitation via Web Log
+7c64e577-d72e-4c3d-9d75-8de6d1f9146a,https://github.com/Ridter/cve-2020-0688,2020/02/27,,CVE-2020-0688 Exploitation Attempt
+6fdfc796-06b3-46e8-af08-58f3505318af,,2017/02/19,,Multiple Suspicious Resp Codes Caused by Single Client
+2dbc10d7-a797-49a8-8776-49efa6442e60,https://www.exploit-db.com/exploits/47297,2019/11/18,,Pulse Secure Attack CVE-2019-11510
+953d460b-f810-420a-97a2-cfca4c98e602,https://pentester.land/tutorials/2018/10/25/source-code-disclosure-via-exposed-git-folder.html,2019/06/08,,Source Code Enumeration Detection by Keyword
+953d460b-f810-420a-97a2-cfca4c98e602,https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-download-the-source-code-of-indias-largest-telecom-service-52cf5c5640a1,2019/06/08,,Source Code Enumeration Detection by Keyword
+7ff9db12-1b94-4a79-ba68-a2402c5d6729,,2017/02/19,,Webshell Detection by Keyword
+2c99737c-585d-4431-b61a-c911d86ff32f,https://twitter.com/menasec1/status/1111556090137903104,2019/04/03,,Powerview Add-DomainObjectAcl DCSync AD Extend Right
+2c99737c-585d-4431-b61a-c911d86ff32f,https://www.specterops.io/assets/resources/an_ace_up_the_sleeve.pdf,2019/04/03,,Powerview Add-DomainObjectAcl DCSync AD Extend Right
+35ba1d85-724d-42a3-889f-2e2362bcaf23,https://blog.menasec.net/2019/02/threat-hunting-5-detecting-enumeration.html,2019/04/03,,AD Privileged Users or Groups Reconnaissance
+0f63e1ef-1eb9-4226-9d54-8927ca08520a,https://car.mitre.org/wiki/CAR-2016-04-005,2017/10/29,,Admin User Remote Logon
+098d7118-55bc-4912-a836-dc6483a8d150,,2017/03/04,,Access to ADMIN$ Share
+028c7842-4243-41cd-be6f-12f3cf1a26c7,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/05_defense_evasion/T1222_file_permissions_modification/ad_replication_user_backdoor.md,2019/09/12,,AD Object WriteDAC Access
+17d619c1-e020-4347-957e-1d1207455c93,Active Directory Replication from Non Machine Account,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/06_credential_access/T1003_credential_dumping/ad_replication_non_machine_account.md,2019/07/26,2020/03/02
+311b6ce2-7890-4383-a8c2-663a9f6b43cd,https://www.harmj0y.net/blog/activedirectory/the-most-dangerous-user-right-you-probably-have-never-heard-of/,2017/07/30,,Enabled User Right in AD to Control User Objects
+300bac00-e041-4ee2-9c36-e262656a6ecc,https://msdn.microsoft.com/en-us/library/cc220234.aspx,2017/04/13,,Active Directory User Backdoors
+300bac00-e041-4ee2-9c36-e262656a6ecc,https://adsecurity.org/?p=3466,2017/04/13,,Active Directory User Backdoors
+300bac00-e041-4ee2-9c36-e262656a6ecc,https://www.harmj0y.net/blog/redteaming/another-word-on-delegation/,2017/04/13,,Active Directory User Backdoors
+f6de9536-0441-4b3f-a646-f4e00f300ffd,https://adsecurity.org/?p=2053,2017/07/30,,Weak Encryption Enabled and Kerberoast
+f6de9536-0441-4b3f-a646-f4e00f300ffd,https://www.harmj0y.net/blog/activedirectory/roasting-as-reps/,2017/07/30,,Weak Encryption Enabled and Kerberoast
+a0a278fe-2c0e-4de2-ac3c-c68b08a9ba98,https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-exploit-guard/attack-surface-reduction-exploit-guard?WT.mc_id=twitter,2018/08/26,,LSASS Access Detected via Attack Surface Reduction
+06d71506-7beb-4f22-8888-e2e5e2ca7fd8,,2017/01/10,2019/10/11,Mimikatz Use
+24549159-ac1b-479c-8175-d42aea947cae,Hacktool Ruler,https://github.com/sensepost/ruler,2017/05/31,2019/07/26
+24549159-ac1b-479c-8175-d42aea947cae,Hacktool Ruler,https://github.com/sensepost/ruler/issues/47,2017/05/31,2019/07/26
+24549159-ac1b-479c-8175-d42aea947cae,Hacktool Ruler,https://github.com/staaldraad/go-ntlm/blob/master/ntlm/ntlmv1.go#L427,2017/05/31,2019/07/26
+24549159-ac1b-479c-8175-d42aea947cae,Hacktool Ruler,https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4776,2017/05/31,2019/07/26
+24549159-ac1b-479c-8175-d42aea947cae,Hacktool Ruler,https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624,2017/05/31,2019/07/26
+c069f460-2b87-4010-8dcf-e45bab362624,https://www.fireeye.com/blog/threat-research/2017/03/apt29_domain_frontin.html,2017/11/01,,APT29 Google Update Service Install
+1df8b3da-b0ac-4d8a-b7c7-6cb7c24160e4,https://www.welivesecurity.com/2017/03/30/carbon-paper-peering-turlas-second-stage-backdoor/,2017/03/31,,Turla Service Install
+9e987c6c-4c1e-40d8-bd85-dd26fba8fdd6,https://securelist.com/blog/research/77725/from-shamoon-to-stonedrill/,2017/03/07,,StoneDrill Service Install
+1228f8e2-7e79-4dea-b0ad-c91f1d5016c1,https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/november/turla-png-dropper-is-back/,2018/11/23,,Turla PNG Dropper Service
+f6de6525-4509-495a-8a82-1f8b0ed73a00,https://blog.menasec.net/2019/03/threat-hunting-25-scheduled-tasks-for.html,2019/04/03,,Remote Task Creation via ATSVC Named Pipe
+48d91a3a-2363-43ba-a456-ca71ac3da5c2,https://twitter.com/mattifestation/status/1217179698008068096,2020/01/15,,Audit CVE Event
+48d91a3a-2363-43ba-a456-ca71ac3da5c2,https://twitter.com/VM_vivisector/status/1217190929330655232,2020/01/15,,Audit CVE Event
+48d91a3a-2363-43ba-a456-ca71ac3da5c2,https://twitter.com/davisrichardg/status/1217517547576348673,2020/01/15,,Audit CVE Event
+48d91a3a-2363-43ba-a456-ca71ac3da5c2,https://twitter.com/DidierStevens/status/1217533958096924676,2020/01/15,,Audit CVE Event
+48d91a3a-2363-43ba-a456-ca71ac3da5c2,https://twitter.com/FlemmingRiis/status/1217147415482060800,2020/01/15,,Audit CVE Event
+78bc5783-81d9-4d73-ac97-59f6db4f72a8,,2017/02/19,,Relevant Anti-Virus Event
+611eab06-a145-4dfa-a295-3ccc5c20f59a,Mimikatz DC Sync,https://twitter.com/gentilkiwi/status/1003236624925413376,2018/06/03,2019/10/08
+611eab06-a145-4dfa-a295-3ccc5c20f59a,Mimikatz DC Sync,https://gist.github.com/gentilkiwi/dcc132457408cf11ad2061340dcb53c2,2018/06/03,2019/10/08
+69aeb277-f15f-4d2d-b32a-55e883609563,https://bit.ly/WinLogsZero2Hero,2017/11/19,,Disabling Windows Event Auditing
+4ac1f50b-3bd0-4968-902d-868b4647937e,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/06_credential_access/T1003_credential_dumping/domain_dpapi_backupkey_extraction.md,2019/06/20,,DPAPI Domain Backup Key Extraction
+39a94fd1-8c9a-4ff6-bf22-c058762f8014,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/06_credential_access/T1003_credential_dumping/domain_dpapi_backupkey_extraction.md,2019/08/10,,DPAPI Domain Master Key Backup Attempt
+f69a87ea-955e-4fb4-adb2-bb9fd6685632,,2019/11/20,,External Disk Drive or USB Storage Device
+a8f29a7b-b137-4446-80a0-b804272f3da2,https://twitter.com/menasec1/status/1106899890377052160,2019/04/03,,Persistence and Execution at Scale via GPO Scheduled Task
+52a85084-6989-40c3-8f32-091e12e13f09,https://blog.ropnop.com/using-credentials-to-own-windows-boxes-part-2-psexec-and-services/,2018/03/20,,smbexec.py Service Installation
+252902e3-5830-4cf6-bf21-c22083dfd5cf,https://blog.menasec.net/2019/02/threat-huting-10-impacketsecretdump.html,2019/04/03,,Possible Impacket SecretDump Remote Activity
+51aa9387-1c53-4153-91cc-d73c59ae1ca9,,2019/11/08,,Invoke-Obfuscation Obfuscated IEX Invocation
+52d8b0c6-53d6-439a-9e41-52ad442ad9ad,https://twitter.com/menasec1/status/1104489274387451904,2019/04/03,,First Time Seen Remote Named Pipe
+962fe167-e48d-4fd6-9974-11e5b9a5d6d1,LSASS Access from Non System Account,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/06_credential_access/T1003_credential_dumping/lsass_access_non_system_account.md,2019/06/20,2019/11/10
+4976aa50-8f41-45c6-8b15-ab3fc10e79ed,Credential Dumping Tools Service Execution,https://www.slideshare.net/heirhabarov/hunting-for-credentials-dumping-in-windows-environment,2017/03/05,2019/11/01
+5a105d34-05fc-401e-8553-272b45c1522d,,2017/03/27,2019/11/01,Malicious Service Installations
+1de68c67-af5c-4097-9c85-fe5578e09e67,https://www.jpcert.or.jp/english/pub/sr/ir_research.html,2017/06/14,,WCE wceaux.dll Access
+1de68c67-af5c-4097-9c85-fe5578e09e67,https://jpcertcc.github.io/ToolAnalysisResultSheet,2017/06/14,,WCE wceaux.dll Access
+843544a7-56e0-4dcc-a44f-5cc266dd97d6,Meterpreter or Cobalt Strike Getsystem Service Installation,https://speakerdeck.com/heirhabarov/hunting-for-privilege-escalation-in-windows-environment,2019/10/26,2019/11/11
+843544a7-56e0-4dcc-a44f-5cc266dd97d6,Meterpreter or Cobalt Strike Getsystem Service Installation,https://blog.cobaltstrike.com/2014/04/02/what-happens-when-i-type-getsystem/,2019/10/26,2019/11/11
+f1f3bf22-deb2-418d-8cce-e1a45e46a5bd,https://enigma0x3.net/2017/01/05/lateral-movement-using-the-mmc20-application-com-object/,2020/03/04,,MMC20 Lateral Movement
+f1f3bf22-deb2-418d-8cce-e1a45e46a5bd,https://drive.google.com/file/d/1lKya3_mLnR3UQuCoiYruO3qgu052_iS_/view?usp=sharing,2020/03/04,,MMC20 Lateral Movement
+d67572a0-e2ec-45d6-b8db-c100d14b8ef2,https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks,2018/03/20,,NetNTLM Downgrade Attack
+cfeed607-6aa4-4bbd-9627-b637deb723c8,,2019/10/25,2019/11/13,New or Renamed User Account with '$' in Attribute 'SamAccountName'.
+192a0330-c20b-4356-90b6-7b7049ae0b87,https://cyberwardog.blogspot.de/2017/04/chronicles-of-threat-hunter-hunting-for.html,2018/02/12,,Successful Overpass the Hash Attempt
+f8d98d6c-7a07-4d74-b064-dd4a3c244528,https://github.com/iadgov/Event-Forwarding-Guidance/tree/master/Events,2017/03/08,,Pass the Hash Activity
+8eef149c-bd26-49f2-9e5a-9b00e3af499b,https://github.com/iadgov/Event-Forwarding-Guidance/tree/master/Events,2019/06/14,,Pass the Hash Activity 2
+8eef149c-bd26-49f2-9e5a-9b00e3af499b,https://blog.binarydefense.com/reliably-detecting-pass-the-hash-through-event-log-analysis,2019/06/14,,Pass the Hash Activity 2
+8eef149c-bd26-49f2-9e5a-9b00e3af499b,https://blog.stealthbits.com/how-to-detect-pass-the-hash-attacks/,2019/06/14,,Pass the Hash Activity 2
+32e19d25-4aed-4860-a55a-be99cb0bf7ed,https://github.com/Neo23x0/sigma/blob/ec5bb710499caae6667c7f7311ca9e92c03b9039/rules/windows/builtin/win_dcsync.yml,2019/10/25,,Possible DC Sync
+32e19d25-4aed-4860-a55a-be99cb0bf7ed,https://twitter.com/gentilkiwi/status/1003236624925413376,2019/10/25,,Possible DC Sync
+32e19d25-4aed-4860-a55a-be99cb0bf7ed,https://gist.github.com/gentilkiwi/dcc132457408cf11ad2061340dcb53c2,2019/10/25,,Possible DC Sync
+32e19d25-4aed-4860-a55a-be99cb0bf7ed,https://jsecurity101.com/2019/Syncing-into-the-Shadows/,2019/10/25,,Possible DC Sync
+45545954-4016-43c6-855e-eae8f1c369dc,Protected Storage Service Access,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/06_credential_access/T1003_credential_dumping/domain_dpapi_backupkey_extraction.md,2019/08/10,2019/11/10
+39f919f3-980b-4e6f-a975-8af7e507ef2b,,2017/05/15,2019/11/13,QuarksPwDump Clearing Access History
+b0d77106-7bb0-41fe-bd94-d1752164d066,,2017/03/23,,Rare Schtasks Creations
+66bfef30-22a5-4fcd-ad44-8d81e60922ae,,2017/03/08,,Rare Service Installs
+8400629e-79a9-4737-b387-5db940ab2367,https://twitter.com/AdamTheAnalyst/status/1134394070045003776,2019/06/02,,Scanner PoC for CVE-2019-0708 RDP RCE Vuln
+8400629e-79a9-4737-b387-5db940ab2367,https://github.com/zerosum0x0/CVE-2019-0708,2019/06/02,,Scanner PoC for CVE-2019-0708 RDP RCE Vuln
+51e33403-2a37-4d66-a574-1fda1782cc31,RDP Login from Localhost,https://www.fireeye.com/blog/threat-research/2019/01/bypassing-network-restrictions-through-rdp-tunneling.html,2019/01/28,2019/01/29
+aaa5b30d-f418-420b-83a0-299cb6024885,https://github.com/zerosum0x0/CVE-2019-0708,2019/05/24,,Potential RDP Exploit CVE-2019-0708
+aaa5b30d-f418-420b-83a0-299cb6024885,https://github.com/Ekultek/BlueKeep,2019/05/24,,Potential RDP Exploit CVE-2019-0708
+5bed80b6-b3e8-428e-a3ae-d3c757589e41,https://twitter.com/SBousseaden/status/1096148422984384514,2019/02/16,,RDP over Reverse SSH Tunnel WFP
+5bed80b6-b3e8-428e-a3ae-d3c757589e41,https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES/blob/master/Command%20and%20Control/DE_RDP_Tunnel_5156.evtx,2019/02/16,,RDP over Reverse SSH Tunnel WFP
+12e6d621-194f-4f59-90cc-1959e21e69f7,https://posts.specterops.io/hunting-in-active-directory-unconstrained-delegation-forests-trusts-71f2b33688e1,2019/10/24,,Register new Logon Process by Rubeus
+13acf386-b8c6-4fe0-9a6e-c4756b974698,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/02_execution/T1086_powershell/powershell_remote_session.md,2019/09/12,,Remote PowerShell Sessions
+68fcba0d-73a5-475e-a915-e8b4c576827e,Remote Registry Management Using Reg Utility,https://www.slideshare.net/heirhabarov/hunting-for-credentials-dumping-in-windows-environment,2019/10/22,2019/11/13
+f8748f2c-89dc-4d95-afb0-5a2dfdbad332,SAM Registry Hive Handle Request,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/07_discovery/T1012_query_registry/sam_registry_hive_access.md,2019/08/12,2019/11/10
+13addce7-47b2-4ca0-a98f-1de964d1d669,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/07_discovery/T1000_local_admin_check/local_admin_remote_check_openscmanager.md,2019/08/12,,SCM Database Handle Failure
+dae8171c-5ec6-4396-b210-8466585b53e9,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/07_discovery/T1000_local_admin_check/local_admin_remote_check_openscmanager.md,2019/08/15,,SCM Database Privileged Operation
+eca91c7c-9214-47b9-b4c5-cb1d7e4f2350,Suspicious Outbound Kerberos Connection,https://github.com/GhostPack/Rubeus8,2019/10/24,2019/11/13
+0255a820-e564-4e40-af2b-6ac61160335c,,2019/12/03,,Addition of Domain Trusts
+2632954e-db1c-49cb-9936-67d1ef1d17d2,https://adsecurity.org/?p=1772,2017/02/19,,Addition of SID History to Active Directory Object
+9703792d-fd9a-456d-a672-ff92efe4806a,https://technet.microsoft.com/en-us/library/cc742154(v=ws.11).aspx,2017/05/12,,Backup Catalog Deleted
+9703792d-fd9a-456d-a672-ff92efe4806a,https://www.hybrid-analysis.com/sample/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa?environmentId=100,2017/05/12,,Backup Catalog Deleted
+470ec5fa-7b4e-4071-b200-4c753100f49b,,2019/12/03,,Failed Code Integrity Checks
+13fc89a9-971e-4ca6-b9dc-aa53a445bf40,https://blog.3or.de/mimilib-dhcp-server-callout-dll-injection.html,2017/05/15,,DHCP Server Loaded the CallOut DLL
+13fc89a9-971e-4ca6-b9dc-aa53a445bf40,https://technet.microsoft.com/en-us/library/cc726884(v=ws.10).aspx,2017/05/15,,DHCP Server Loaded the CallOut DLL
+13fc89a9-971e-4ca6-b9dc-aa53a445bf40,https://msdn.microsoft.com/de-de/library/windows/desktop/aa363389(v=vs.85).aspx,2017/05/15,,DHCP Server Loaded the CallOut DLL
+75edd3fd-7146-48e5-9848-3013d7f0282c,DHCP Server Error Failed Loading the CallOut DLL,https://blog.3or.de/mimilib-dhcp-server-callout-dll-injection.html,2017/05/15,2019/07/17
+75edd3fd-7146-48e5-9848-3013d7f0282c,DHCP Server Error Failed Loading the CallOut DLL,https://technet.microsoft.com/en-us/library/cc726884(v=ws.10).aspx,2017/05/15,2019/07/17
+75edd3fd-7146-48e5-9848-3013d7f0282c,DHCP Server Error Failed Loading the CallOut DLL,https://msdn.microsoft.com/de-de/library/windows/desktop/aa363389(v=vs.85).aspx,2017/05/15,2019/07/17
+cbe51394-cd93-4473-b555-edf0144952d9,https://medium.com/@esnesenon/feature-not-bug-dnsadmin-to-dc-compromise-in-one-line-a0f779b8dc83,2017/05/08,,DNS Server Error Failed Loading the ServerLevelPluginDLL
+cbe51394-cd93-4473-b555-edf0144952d9,https://technet.microsoft.com/en-us/library/cc735829(v=ws.10).aspx,2017/05/08,,DNS Server Error Failed Loading the ServerLevelPluginDLL
+cbe51394-cd93-4473-b555-edf0144952d9,https://twitter.com/gentilkiwi/status/861641945944391680,2017/05/08,,DNS Server Error Failed Loading the ServerLevelPluginDLL
+53ad8e36-f573-46bf-97e4-15ba5bf4bb51,https://adsecurity.org/?p=1714,2017/02/19,,Password Change on Directory Service Restore Mode (DSRM) Account
+d99b79d2-0a6f-4f46-ad8b-260b6e17f982,https://twitter.com/deviouspolack/status/832535435960209408,2017/01/10,,Eventlog Cleared
+d99b79d2-0a6f-4f46-ad8b-260b6e17f982,https://www.hybrid-analysis.com/sample/027cc450ef5f8c5f653329641ec1fed91f694e0d229928963b30f6b0d7d3a745?environmentId=100,2017/01/10,,Eventlog Cleared
+e98374a6-e2d9-4076-9b5c-11bdb2569995,,2017/01/10,,Failed Logins with Different Accounts from Single Source System
+9eb99343-d336-4020-a3cd-67f3819e68ee,Account Tampering - Suspicious Failed Logon Reasons,https://twitter.com/SBousseaden/status/1101431884540710913,2017/02/19,2019/03/01
+3ff152b2-1388-4984-9cd9-a323323fdadf,,2017/03/17,,Interactive Logon to Server Systems
+f7644214-0eb0-4ace-9455-331ec4c09253,,2017/02/10,,Kerberos Manipulation
+1bbf25b9-8038-4154-a50b-118f2a32be27,https://twitter.com/SBousseaden/status/1189469425482829824,2019/10/31,,Suspicious Windows ANONYMOUS LOGON Local Account Created
+aa1697b7-d611-4f9a-9cb2-5125b4ccfd5c,https://twitter.com/jackcr/status/807385668833968128,2017/02/12,,Password Dumper Activity on LSASS
+4a1b6da0-d94f-4fc3-98fc-2d9cb9e5ee76,Generic Password Dumper Activity on LSASS,https://cyberwardog.blogspot.com/2017/03/chronicles-of-threat-hunter-hunting-for_22.html,2019/11/01,2019/11/07
+4a1b6da0-d94f-4fc3-98fc-2d9cb9e5ee76,Generic Password Dumper Activity on LSASS,https://www.slideshare.net/heirhabarov/hunting-for-credentials-dumping-in-windows-environment,2019/11/01,2019/11/07
+cc7abbd0-762b-41e3-8a26-57ad50d2eea3,MSHTA Suspicious Execution 01,http://blog.sevagas.com/?Hacking-around-HTA-files,22/02/2019,22/02/2019
+cc7abbd0-762b-41e3-8a26-57ad50d2eea3,MSHTA Suspicious Execution 01,https://0x00sec.org/t/clientside-exploitation-in-2018-how-pentesting-has-changed/7356,22/02/2019,22/02/2019
+cc7abbd0-762b-41e3-8a26-57ad50d2eea3,MSHTA Suspicious Execution 01,https://docs.microsoft.com/en-us/dotnet/standard/data/xml/xslt-stylesheet-scripting-using-msxsl-script,22/02/2019,22/02/2019
+cc7abbd0-762b-41e3-8a26-57ad50d2eea3,MSHTA Suspicious Execution 01,https://medium.com/tsscyber/pentesting-and-hta-bypassing-powershell-constrained-language-mode-53a42856c997,22/02/2019,22/02/2019
+6c82cf5c-090d-4d57-9188-533577631108,https://bugs.chromium.org/p/project-zero/issues/detail?id=1252&desc=5,2017/05/09,,Microsoft Malware Protection Engine Crash
+6c82cf5c-090d-4d57-9188-533577631108,https://technet.microsoft.com/en-us/library/security/4022344,2017/05/09,,Microsoft Malware Protection Engine Crash
+968eef52-9cff-4454-8992-1e74b9cbad6c,https://findingbad.blogspot.de/2017/01/hunting-what-does-it-look-like.html,2017/03/07,,Reconnaissance Activity
+98c3bcf1-56f2-49dc-9d8d-c66cf190238b,https://twitter.com/JohnLaTwC/status/1004895028995477505,2018/06/08,,NTLM Logon
+98c3bcf1-56f2-49dc-9d8d-c66cf190238b,https://goo.gl/PsqrhT,2018/06/08,,NTLM Logon
+c462f537-a1e3-41a6-b5fc-b2c2cef9bf82,https://blog.menasec.net/2019/02/threat-hunting-3-detecting-psexec.html,2019/04/03,,Suspicious PsExec Execution
+91c945bc-2ad1-4799-a591-4d00198a1215,,2019/04/03,,Suspicious Access to Sensitive File Extensions
+496a0e47-0a33-4dca-b009-9e6ca3591f39,https://adsecurity.org/?p=3458,2017/02/06,,Suspicious Kerberos RC4 Ticket Encryption
+496a0e47-0a33-4dca-b009-9e6ca3591f39,https://www.trimarcsecurity.com/single-post/TrimarcResearch/Detecting-Kerberoasting-Activity,2017/02/06,,Suspicious Kerberos RC4 Ticket Encryption
+16f5d8ca-44bd-47c8-acbe-6fc95a16c12f,https://twitter.com/SBousseaden/status/1195284233729777665,2019/11/15,,RottenPotato Like Attack Pattern
+7818b381-5eb1-4641-bea5-ef9e4cfb5951,,2017/06/09,,Possible Remote Password Change Through SAMR
+839dd1e8-eda8-4834-8145-01beeee33acd,,2018/01/27,,SAM Dump to AppData
+39a80702-d7ca-4a83-b776-525b1f86a36d,https://jpcertcc.github.io/ToolAnalysisResultSheet,2017/06/14,,Secure Deletion with SDelete
+39a80702-d7ca-4a83-b776-525b1f86a36d,https://www.jpcert.or.jp/english/pub/sr/ir_research.html,2017/06/14,,Secure Deletion with SDelete
+39a80702-d7ca-4a83-b776-525b1f86a36d,https://technet.microsoft.com/en-us/en-en/sysinternals/sdelete.aspx,2017/06/14,,Secure Deletion with SDelete
+f2f01843-e7b8-4f95-a35a-d23584476423,,2017/02/19,,Security Eventlog Cleared
+faa031b5-21ed-4e02-8881-2591f98d82ed,"Private Cuckoo Sandbox (from many years ago, no longer have hash, NDA as well)",2019/02/05,,Unauthorized System Time Modification
+faa031b5-21ed-4e02-8881-2591f98d82ed,Live environment caused by malware,2019/02/05,,Unauthorized System Time Modification
+5af54681-df95-4c26-854f-2565e13cfab0,,2019/12/04,,Login with WMI
+586a8d6b-6bfe-4ad9-9d78-888cd2fe50c3,https://blog.menasec.net/2019/03/threat-hunting-26-remote-windows.html,2019/04/03,,Remote Service Activity via SVCCTL Named Pipe
+9a4ff3b8-6187-4fd2-8e8b-e0eae1129495,SysKey Registry Keys Access,https://github.com/hunters-forge/ThreatHunter-Playbook/blob/master/playbooks/windows/07_discovery/T1012_query_registry/syskey_registry_keys_access.md,2019/08/12,2019/11/10
+8e4cf0e5-aa5d-4dc3-beff-dc26917744a9,,2019/10/24,,Tap Driver Installation
+910ab938-668b-401b-b08c-b596e80fdca5,https://www.slideshare.net/heirhabarov/hunting-for-credentials-dumping-in-windows-environment,2019/10/22,,Transfering Files with Credential Data via Network Shares
+1a4bd6e3-4c6e-405d-a9a3-53a116e341d4,https://df-stream.com/2014/01/the-windows-7-event-log-and-usb-device/,2017/11/09,,USB Device Plugged
+1a4bd6e3-4c6e-405d-a9a3-53a116e341d4,https://www.techrepublic.com/article/how-to-track-down-usb-flash-drive-usage-in-windows-10s-event-viewer/,2017/11/09,,USB Device Plugged
+c265cf08-3f99-46c1-8d59-328247057d57,,2017/03/14,,User Added to Local Administrators
+6daac7fc-77d1-449a-a71a-e6b4d59a0e54,https://posts.specterops.io/hunting-in-active-directory-unconstrained-delegation-forests-trusts-71f2b33688e1,2019/10/24,,User Couldn't Call a Privileged Service 'LsaRegisterLogonProcess'
+66b6be3d-55d0-4f47-9855-d69df21740ea,https://patrick-bareiss.com/detecting-local-user-creation-in-ad-with-sigma/,2019/04/18,,Local User Creation
+d6266bf5-935e-4661-b477-78772735a7cb,https://www.trustedsec.com/blog/detecting-cve-20200688-remote-code-execution-vulnerability-on-microsoft-exchange-server/,2020/02/29,,CVE-2020-0688 Exploitation via Eventlog
+0d894093-71bc-43c3-8c4d-ecfc28dcf5d9,https://onedrive.live.com/view.aspx?resid=D026B4699190F1E6!2843&ithint=file%2cpptx&app=PowerPoint&authkey=!AMvCRTKB_V1J5ow,2017/10/18,,Mimikatz Detection LSASS Access
+0d894093-71bc-43c3-8c4d-ecfc28dcf5d9,https://cyberwardog.blogspot.com/2017/03/chronicles-of-threat-hunter-hunting-for_22.html,2017/10/18,,Mimikatz Detection LSASS Access
+b932b60f-fdda-4d53-8eda-a170c1d97bbd,https://www.swordshield.com/2015/07/getting-hashes-from-ntds-dit-file/,2019/01/16,,Activity Related to NTDS.dit Domain Hash Retrieval
+b932b60f-fdda-4d53-8eda-a170c1d97bbd,https://room362.com/post/2013/2013-06-10-volume-shadow-copy-ntdsdit-domain-hashes-remotely-part-1/,2019/01/16,,Activity Related to NTDS.dit Domain Hash Retrieval
+b932b60f-fdda-4d53-8eda-a170c1d97bbd,"https://www.trustwave.com/Resources/SpiderLabs-Blog/Tutorial-for-NTDS-goodness-(VSSADMIN,-WMIS,-NTDS-dit,-SYSTEM)/",2019/01/16,,Activity Related to NTDS.dit Domain Hash Retrieval
+b932b60f-fdda-4d53-8eda-a170c1d97bbd,https://securingtomorrow.mcafee.com/mcafee-labs/new-teslacrypt-ransomware-arrives-via-spam/,2019/01/16,,Activity Related to NTDS.dit Domain Hash Retrieval
+b932b60f-fdda-4d53-8eda-a170c1d97bbd,https://dfironthemountain.wordpress.com/2018/12/06/locked-file-access-using-esentutl-exe/,2019/01/16,,Activity Related to NTDS.dit Domain Hash Retrieval
+238527ad-3c2c-4e4f-a1f6-92fd63adb864,Antivirus Exploitation Framework Detection,https://www.nextron-systems.com/2018/09/08/antivirus-event-analysis-cheat-sheet-v1-4/,2018/09/09,2019/01/16
+78cc2dd2-7d20-4d32-93ff-057084c38b93,Antivirus Password Dumper Detection,https://www.nextron-systems.com/2018/09/08/antivirus-event-analysis-cheat-sheet-v1-4/,2018/09/09,2019/10/04
+c9a88268-0047-4824-ba6e-4d81ce0b907c,Antivirus Relevant File Paths Alerts,https://www.nextron-systems.com/2018/09/08/antivirus-event-analysis-cheat-sheet-v1-4/,2018/09/09,2019/10/04
+fdf135a2-9241-4f96-a114-bb404948f736,Antivirus Web Shell Detection,https://www.nextron-systems.com/2018/09/08/antivirus-event-analysis-cheat-sheet-v1-4/,2018/09/09,2019/10/04
+0acaad27-9f02-4136-a243-c357202edd74,https://research.checkpoint.com/ryuk-ransomware-targeted-campaign-break/,2019/08/06,,Ryuk Ransomware
+21f17060-b282-4249-ade0-589ea3591558,https://blog.yoroi.company/research/ursnif-long-live-the-steganography/,2019/02/13,,Ursnif
+21f17060-b282-4249-ade0-589ea3591558,https://blog.trendmicro.com/trendlabs-security-intelligence/phishing-campaign-uses-hijacked-emails-to-deliver-ursnif-by-replying-to-ongoing-threads/,2019/02/13,,Ursnif
+e9c8808f-4cfb-4ba9-97d4-e5f3beaa244d,https://www.bleepingcomputer.com/news/security/gootkit-malware-bypasses-windows-defender-by-setting-path-exclusions/,2019/10/26,,Windows Defender Exclusion Set
+b20f6158-9438-41be-83da-a5a16ac90c2b,,2017/03/17,,Rare Scheduled Task Creations
+42c575ea-e41e-41f1-b248-8093c3e82a28,https://www.jpcert.or.jp/english/pub/sr/ir_research.html,2017/06/12,,PsExec Tool Execution
+42c575ea-e41e-41f1-b248-8093c3e82a28,https://jpcertcc.github.io/ToolAnalysisResultSheet,2017/06/12,,PsExec Tool Execution
+0b7889b4-5577-4521-a60a-3376ee7f9f7b,https://twitter.com/mattifestation/status/899646620148539397,2017/08/22,,WMI Persistence
+0b7889b4-5577-4521-a60a-3376ee7f9f7b,https://www.eideon.com/2018-03-02-THL03-WMIBackdoors/,2017/08/22,,WMI Persistence
+64e8e417-c19a-475a-8d19-98ea705394cc,Alternate PowerShell Hosts,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/02_execution/T1086_powershell/alternate_signed_powershell_hosts.md,2019/08/11,2020/02/25
+dfba4ce1-e0ea-495f-986e-97140f31af2d,https://gist.github.com/hook-s3c/7363a856c3cdbadeb71085147f042c1a,2019/10/25,,Clear PowerShell History
+6dc5d284-69ea-42cf-9311-fb1c3932a69a,Data Compressed - Powershell,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1002/T1002.yaml,2019/10/21,2019/11/04
+a6d67db4-6220-436d-8afc-f3842fe05d43,,2019/10/24,,Dnscat Execution
+6331d09b-4785-4c13-980f-f96661356249,http://www.leeholmes.com/blog/2017/03/17/detecting-and-preventing-powershell-downgrade-attacks/,2017/03/22,,PowerShell Downgrade Attack
+c70e019b-1479-4b65-b0cc-cd0c6093a599,https://adsecurity.org/?p=2921,2017/03/05,,PowerShell Called from an Executable Version Mismatch
+1b9dc62e-6e9e-42a3-8990-94d7a10007f7,,2019/11/08,,Invoke-Obfuscation Obfuscated IEX Invocation
+89819aa4-bbd6-46bc-88ec-c7f7fe30efa6,Malicious PowerShell Commandlets,https://adsecurity.org/?p=2921,2017/03/05,2019/01/22
+f62176f3-8128-4faa-bf6c-83261322e5eb,Malicious PowerShell Keywords,https://adsecurity.org/?p=2921,2017/03/05,2019/01/22
+f772cee9-b7c2-4cb2-8f07-49870adc02e0,https://github.com/samratashok/nishang,2019/05/16,,Malicious Nishang PowerShell Commandlets
+8c521530-5169-495d-a199-0a3a881ad24e,http://www.powertheshell.com/ntfsstreams/,2018/07/24,,NTFS Alternate Data Stream
+ca8b77a9-d499-4095-b793-5d5f330d450e,https://twitter.com/JohnLaTwC/status/850381440629981184,2017/04/09,,PowerShell Credential Prompt
+ca8b77a9-d499-4095-b793-5d5f330d450e,https://t.co/ezOTGy1a1G,2017/04/09,,PowerShell Credential Prompt
+b7ec41a4-042c-4f31-a5db-d0fcde9fa5c5,https://adsecurity.org/?p=2921,2017/03/05,,PowerShell PSAttack
+96b9f619-aa91-478f-bacb-c3e50f8df575,Remote PowerShell Session,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/02_execution/T1086_powershell/powershell_remote_session.md,2019/08/10,2019/11/10
+16b37b70-6fcf-4814-a092-c36bd3aafcbd,https://twitter.com/cyb3rops/status/1063072865992523776,2018/11/17,,PowerShell ShellCode
+65531a81-a694-4e31-ae04-f8ba5bc33759,,2017/03/05,,Suspicious PowerShell Download
+3d304fda-78aa-43ed-975c-d740798a49c1,,2017/03/12,,Suspicious PowerShell Invocations - Generic
+fce5f582-cc00-41e1-941a-c6fabf0fdb8c,,2017/03/05,,Suspicious PowerShell Invocations - Specific
+1f49f2ab-26bc-48b3-96cc-dcffbc93eadf,https://posts.specterops.io/entering-a-covenant-net-command-and-control-e11038bcf462,2019/02/11,,Suspicious PowerShell Keywords
+1f49f2ab-26bc-48b3-96cc-dcffbc93eadf,https://github.com/PowerShellMafia/PowerSploit/blob/master/CodeExecution/Invoke-ReflectivePEInjection.ps1,2019/02/11,,Suspicious PowerShell Keywords
+1f49f2ab-26bc-48b3-96cc-dcffbc93eadf,https://github.com/hlldz/Invoke-Phant0m/blob/master/Invoke-Phant0m.ps1,2019/02/11,,Suspicious PowerShell Keywords
+851c506b-6b7c-4ce2-8802-c703009d03c0,Winlogon Helper DLL,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1004/T1004.yaml,2019/10/21,2019/11/04
+033fe7d6-66d1-4240-ac6b-28908009c71f,https://cloudblogs.microsoft.com/microsoftsecure/2018/12/03/analysis-of-cyberattack-on-u-s-think-tanks-non-profits-public-sector-by-unidentified-attackers/,2018/12/04,,APT29
+2b30fa36-3a18-402f-a22d-bf4ce2189f35,https://unit42.paloaltonetworks.com/new-babyshark-malware-targets-u-s-national-security-think-tanks/,2019/02/24,,Baby Shark Activity
+b83f5166-9237-4b5e-9cd4-7b5d52f4d8ee,https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/,2019/02/21,,Judgement Panda Exfil Activity
+bd70d3f8-e60e-4d25-89f0-0b5a9cff20e0,https://www.virusbulletin.com/conference/vb2019/abstracts/apt-cases-exploiting-vulnerabilities-region-specific-software,2019/10/02,,BlueMashroom DLL Load
+53ba33fd-3a50-4468-a5ef-c583635cfa92,Chafer Activity,https://nyotron.com/nyotron-discovers-next-generation-oilrig-attacks/,2018/03/23,2019/03/01
+966e4016-627f-44f7-8341-f394905c361f,https://www.pwc.co.uk/cyber-security/pdf/cloud-hopper-annex-b-final.pdf,2017/04/07,,WMIExec VBS Script
+04d9079e-3905-4b70-ad37-6bdf11304965,https://www.ncsc.gov.uk/alerts/hostile-state-actors-compromising-uk-organisations-focus-engineering-and-industrial-control,2018/04/08,,CrackMapExecWin
+e507feb7-5f73-4ef6-a970-91bb6f6d744f,https://community.rsa.com/community/products/netwitness/blog/2018/02/13/lotus-blossom-continues-asean-targeting,2018/01/31,,Elise Backdoor
+9aa01d62-7667-4d3b-acb8-8cb5103e2014,https://app.any.run/tasks/579e7587-f09d-4aae-8b07-472833262965,2018/09/03,,Emissary Panda Malware SLLauncher
+9aa01d62-7667-4d3b-acb8-8cb5103e2014,https://twitter.com/cyb3rops/status/1168863899531132929,2018/09/03,,Emissary Panda Malware SLLauncher
+10152a7b-b566-438f-a33c-390b607d1c8d,https://app.any.run/tasks/a4107649-8cb0-41af-ad75-113152d4d57b,2019/04/02,,Empire Monkey
+d465d1d8-27a2-4cca-9621-a800f37cf72e,https://github.com/adamcaudill/EquationGroupLeak/search?utf8=%E2%9C%93&q=dll_u&type=,2019/03/04,,Equation Group DLL_U Load
+d465d1d8-27a2-4cca-9621-a800f37cf72e,https://securelist.com/apt-slingshot/84312/,2019/03/04,,Equation Group DLL_U Load
+d465d1d8-27a2-4cca-9621-a800f37cf72e,https://twitter.com/cyb3rops/status/972186477512839170,2019/03/04,,Equation Group DLL_U Load
+440a56bf-7873-4439-940a-1c8a671073c2,https://www.microsoft.com/security/blog/2019/12/12/gallium-targeting-global-telecom/,2020/02/07,,GALLIUM Artefacts
+440a56bf-7873-4439-940a-1c8a671073c2,https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/dn800669(v=ws.11),2020/02/07,,GALLIUM Artefacts
+0eb2107b-a596-422e-b123-b389d5594ed7,https://www.crowdstrike.com/blog/crowdstrike-discovers-use-64-bit-zero-day-privilege-escalation-exploit-cve-2014-4113-hurricane-panda/,2019/03/04,,Hurricane Panda Activity
+03e2746e-2b31-42f1-ab7a-eb39365b2422,https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/,2019/02/21,,Judgement Panda Exfil Activity
+2d87d610-d760-45ee-a7e6-7a6f2a65de00,https://app.any.run/tasks/7ca5661d-a67b-43ec-98c1-dd7a8103c256/,2019/10/30,,Mustang Panda Dropper
+2d87d610-d760-45ee-a7e6-7a6f2a65de00,https://app.any.run/tasks/b12cccf3-1c22-4e28-9d3e-c7a6062f3914/,2019/10/30,,Mustang Panda Dropper
+2d87d610-d760-45ee-a7e6-7a6f2a65de00,https://www.anomali.com/blog/china-based-apt-mustang-panda-targets-minority-groups-public-and-private-sector-organizations,2019/10/30,,Mustang Panda Dropper
+958d81aa-8566-4cea-a565-59ccd4df27b0,https://securelist.com/apt-slingshot/84312/,2019/03/04,,Defrag Deactivation
+ba778144-5e3d-40cf-8af9-e28fb1df1e20,https://researchcenter.paloaltonetworks.com/2018/02/unit42-sofacy-attacks-multiple-government-entities/,2018/03/01,,Sofacy Trojan Loader Activity
+ba778144-5e3d-40cf-8af9-e28fb1df1e20,https://www.reverse.it/sample/e3399d4802f9e6d6d539e3ae57e7ea9a54610a7c4155a6541df8e94d67af086e?environmentId=100,2018/03/01,,Sofacy Trojan Loader Activity
+ba778144-5e3d-40cf-8af9-e28fb1df1e20,https://twitter.com/ClearskySec/status/960924755355369472,2018/03/01,,Sofacy Trojan Loader Activity
+18da1007-3f26-470f-875d-f77faf1cab31,https://www.us-cert.gov/ncas/alerts/TA17-293A,2017/10/22,,Ps.exe Renamed SysInternals Tool
+8c7090c3-e0a0-4944-bd08-08c3a0cecf79,https://cloudblogs.microsoft.com/microsoftsecure/2018/11/28/windows-defender-atp-device-risk-score-exposes-new-cyberattack-drives-conditional-access-to-protect-networks/,2019/11/12,,TropicTrooper Campaign November 2018
+c601f20d-570a-4cde-a7d6-e17f99cb8e7f,https://securelist.com/the-epic-turla-operation/65545/,2017/11/07,,Turla Group Lateral Movement
+7453575c-a747-40b9-839b-125a0aae324b,Unidentified Attacker November 2018,https://twitter.com/DrunkBinary/status/1063075530180886529,2018/11/20,2018/12/11
+3121461b-5aa0-4a41-b910-66d25524edbb,https://www.welivesecurity.com/2020/01/31/winnti-group-targeting-universities-hong-kong/,2020/02/01,,Winnti Malware HK University Campaign
+74ad4314-482e-4c3e-b237-3f7ed3b9ca8d,https://www.fox-it.com/en/news/whitepapers/operation-wocao-shining-a-light-on-one-of-chinas-hidden-hacking-groups/,2019/12/20,,Operation Wocao Activity
+74ad4314-482e-4c3e-b237-3f7ed3b9ca8d,https://twitter.com/SBousseaden/status/1207671369963646976,2019/12/20,,Operation Wocao Activity
+f0b70adb-0075-43b0-9745-e82a1c608fcc,https://www.hybrid-analysis.com/sample/5d2a4cde9fa7c2fdbf39b2e2ffd23378d0c50701a3095d1e91e3cf922d7b0b16?environmentId=100,2017/07/20,,ZxShell Malware
+4281cb20-2994-4580-aa63-c8b86d019934,,2019/01/16,,Hiding Files with Attrib.exe
+1444443e-6757-43e4-9ea4-c8fc705f79a2,Modification of Boot Configuration,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1490/T1490.yaml,2019/10/24,2019/11/11
+1444443e-6757-43e4-9ea4-c8fc705f79a2,Modification of Boot Configuration,https://eqllib.readthedocs.io/en/latest/analytics/c4732632-9c1d-4980-9fa8-1d98c93f918e.html,2019/10/24,2019/11/11
+8d63dadf-b91b-4187-87b6-34a1114577ea,https://subt0x11.blogspot.ch/2018/04/wmicexe-whitelisting-bypass-hacking.html,2019/01/16,,SquiblyTwo
+8d63dadf-b91b-4187-87b6-34a1114577ea,https://twitter.com/mattifestation/status/986280382042595328,2019/01/16,,SquiblyTwo
+3d3aa6cd-6272-44d6-8afc-7e88dfef7061,Change Default File Association,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1042/T1042.yaml,2019/10/21,2019/11/04
+07f8bdc2-c9b3-472a-9817-5a670b872f53,https://www.peew.pw/blog/2017/11/26/exploring-cmdkey-an-edge-case-for-privilege-escalation,2019/01/16,,Cmdkey Cached Credentials Recon
+07f8bdc2-c9b3-472a-9817-5a670b872f53,https://technet.microsoft.com/en-us/library/cc754243(v=ws.11).aspx,2019/01/16,,Cmdkey Cached Credentials Recon
+4b60e6f2-bf39-47b4-b4ea-398e33cfe253,CMSTP UAC Bypass via COM Object Access,http://www.endurant.io/cmstp/detecting-cmstp-enabled-code-execution-and-uac-bypass-with-sysmon/,2019/01/16,2019/07/31
+4b60e6f2-bf39-47b4-b4ea-398e33cfe253,CMSTP UAC Bypass via COM Object Access,https://twitter.com/hFireF0X/status/897640081053364225,2019/01/16,2019/07/31
+0ba863e6-def5-4e50-9cea-4dd8c7dc46a4,,2019/08/27,,Control Panel Items
+3d4aebe0-6d29-45b2-a8a4-3dfde586a26d,https://www.virustotal.com/en/file/9b4971349ae85aa09c0a69852ed3e626c954954a3927b3d1b6646f139b930022/analysis/,2017/06/03,,Fireball Archer Install
+3d4aebe0-6d29-45b2-a8a4-3dfde586a26d,https://www.hybrid-analysis.com/sample/9b4971349ae85aa09c0a69852ed3e626c954954a3927b3d1b6646f139b930022?environmentId=100,2017/06/03,,Fireball Archer Install
+6f3e2987-db24-4c78-a860-b4f4095a7095,Data Compressed - rar.exe,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1002/T1002.yaml,2019/10/21,2019/11/04
+6f3e2987-db24-4c78-a860-b4f4095a7095,Data Compressed - rar.exe,https://eqllib.readthedocs.io/en/latest/analytics/1ec33c93-3d0b-4a28-8014-dbdaae5c60ae.html,2019/10/21,2019/11/04
+98a96a5a-64a0-4c42-92c5-489da3866cb0,,2019/10/24,,DNS Exfiltration Tools Execution
+77815820-246c-47b8-9741-e0def3f57308,Domain Trust Discovery,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1482/T1482.yaml,2019/10/23,2019/11/08
+fdb62a13-9a81-4e5c-a38f-ea93a16f6d7c,,2019/08/24,,Encoded FromBase64String
+88f680b8-070e-402c-ae11-d2914f2257f1,,2019/08/23,,Encoded IEX
+a238b5d0-ce2d-4414-a676-7a531b3d13d6,https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/wevtutil,2019/03/22,,Disable of ETW Trace
+a238b5d0-ce2d-4414-a676-7a531b3d13d6,https://github.com/Neo23x0/sigma/blob/master/rules/windows/process_creation/win_mal_lockergoga.yml,2019/03/22,,Disable of ETW Trace
+a238b5d0-ce2d-4414-a676-7a531b3d13d6,https://abuse.io/lockergoga.txt,2019/03/22,,Disable of ETW Trace
+c75309a3-59f8-4a8d-9c2c-4c927ad50555,,2019/10/24,,Exfiltration and Tunneling Tools Execution
+7993792c-5ce2-4475-a3db-a3a5539827ef,https://www.virustotal.com/en/file/5567408950b744c4e846ba8ae726883cb15268a539f3bb21758a466e47021ae8/analysis/,2018/02/22,,Exploit for CVE-2015-1641
+7993792c-5ce2-4475-a3db-a3a5539827ef,https://www.hybrid-analysis.com/sample/5567408950b744c4e846ba8ae726883cb15268a539f3bb21758a466e47021ae8?environmentId=100,2018/02/22,,Exploit for CVE-2015-1641
+864403a1-36c9-40a2-a982-4c9a45f7d833,https://www.fireeye.com/blog/threat-research/2017/05/eps-processing-zero-days.html,2018/02/22,,Exploit for CVE-2017-0261
+678eb5f4-8597-4be6-8be7-905e4234b53a,https://www.hybrid-analysis.com/sample/2a4ae284c76f868fc51d3bb65da8caa6efacb707f265b25c30f34250b76b7507?environmentId=100,2017/11/23,,Droppers Exploiting CVE-2017-11882
+678eb5f4-8597-4be6-8be7-905e4234b53a,https://www.google.com/url?hl=en&q=https://embedi.com/blog/skeleton-closet-ms-office-vulnerability-you-didnt-know-about&source=gmail&ust=1511481120837000&usg=AFQjCNGdL7gVwLXaNSl2Td8ylDYbSJFmPw,2017/11/23,,Droppers Exploiting CVE-2017-11882
+fdd84c68-a1f6-47c9-9477-920584f94905,https://www.hybrid-analysis.com/sample/0b4ef455e385b750d9f90749f1467eaf00e46e8d6c2885c260e1b78211a51684?environmentId=100,2017/09/15,,Exploit for CVE-2017-8759
+fdd84c68-a1f6-47c9-9477-920584f94905,https://www.reverse.it/sample/0b4ef455e385b750d9f90749f1467eaf00e46e8d6c2885c260e1b78211a51684?environmentId=100,2017/09/15,,Exploit for CVE-2017-8759
+1c373b6d-76ce-4553-997d-8c1da9a6b5f5,https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua,2019/11/15,,Exploiting SetupComplete.cmd CVE-2019-1378
+02e0b2ea-a597-428e-b04a-af6a1a403e5c,https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1388,2019/11/20,,Exploiting CVE-2019-1388
+02e0b2ea-a597-428e-b04a-af6a1a403e5c,https://www.zerodayinitiative.com/blog/2019/11/19/thanksgiving-treat-easy-as-pie-windows-7-secure-desktop-escalation-of-privilege,2019/11/20,,Exploiting CVE-2019-1388
+37ae075c-271b-459b-8d7b-55ad5f993dd8,File or Folder Permissions Modifications,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1222/T1222.yaml,2019/10/23,2019/11/08
+fd877b94-9bb5-4191-bb25-d79cbd93c167,https://www.slideshare.net/heirhabarov/hunting-for-credentials-dumping-in-windows-environment,2019/10/22,,Grabbing Sensitive Hives via Reg Utility
+fd877b94-9bb5-4191-bb25-d79cbd93c167,https://eqllib.readthedocs.io/en/latest/analytics/aed95fc6-5e3f-49dc-8b35-06508613f979.html,2019/10/22,,Grabbing Sensitive Hives via Reg Utility
+fd877b94-9bb5-4191-bb25-d79cbd93c167,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1003/T1003.md,2019/10/22,,Grabbing Sensitive Hives via Reg Utility
+f376c8a7-a2d0-4ddc-aa0c-16c17236d962,Bloodhound and Sharphound Hack Tool,https://github.com/BloodHoundAD/BloodHound,2019/12/20,2019/12/21
+f376c8a7-a2d0-4ddc-aa0c-16c17236d962,Bloodhound and Sharphound Hack Tool,https://github.com/BloodHoundAD/SharpHound,2019/12/20,2019/12/21
+5cddf373-ef00-4112-ad72-960ac29bac34,https://unit42.paloaltonetworks.com/unit42-sofacy-groups-parallel-attacks/,2020/01/12,,Koadic Execution
+5cddf373-ef00-4112-ad72-960ac29bac34,https://github.com/zerosum0x0/koadic/blob/master/data/stager/js/stdlib.js#L955,2020/01/12,,Koadic Execution
+5cddf373-ef00-4112-ad72-960ac29bac34,https://blog.f-secure.com/hunting-for-koadic-a-com-based-rootkit/,2020/01/12,,Koadic Execution
+7ec2c172-dceb-4c10-92c9-87c1881b7e18,https://www.harmj0y.net/blog/redteaming/from-kekeo-to-rubeus/,2018/12/19,,Rubeus Hack Tool
+7679d464-4f74-45e2-9e01-ac66c5eb041a,https://securityxploded.com/,2018/12/19,,SecurityXploded Tool
+7679d464-4f74-45e2-9e01-ac66c5eb041a,https://cyberx-labs.com/blog/gangnam-industrial-style-apt-campaign-targets-korean-industrial-companies/,2018/12/19,,SecurityXploded Tool
+68c8acb4-1b60-4890-8e82-3ddf7a6dba84,HH.exe Execution,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1223/T1223.yaml,2019/10/24,2019/11/11
+68c8acb4-1b60-4890-8e82-3ddf7a6dba84,HH.exe Execution,https://eqllib.readthedocs.io/en/latest/analytics/b25aa548-7937-11e9-8f5c-d46d6d62a49e.html,2019/10/24,2019/11/11
+36d88494-1d43-4dc0-b3fa-35c8fea0ca9d,https://ired.team/offensive-security/credential-access-and-credential-dumping/dumping-lsass-passwords-without-mimikatz-minidumpwritedump-av-signature-bypass,2019/12/22,,CreateMiniDump Hacktool
+023394c4-29d5-46ab-92b8-6a534c6f447b,https://www.securitynewspaper.com/2016/11/23/technical-teardown-exploit-malware-hwp-files/,2019/10/24,,Suspicious HWP Sub Processes
+023394c4-29d5-46ab-92b8-6a534c6f447b,https://www.hybrid-analysis.com/search?query=context:74940dcc5b38f9f9b1a0fea760d344735d7d91b610e6d5bd34533dd0153402c5&from_sample=5db135000388385a7644131f&block_redirect=1,2019/10/24,,Suspicious HWP Sub Processes
+023394c4-29d5-46ab-92b8-6a534c6f447b,https://twitter.com/cyberwar_15/status/1187287262054076416,2019/10/24,,Suspicious HWP Sub Processes
+023394c4-29d5-46ab-92b8-6a534c6f447b,https://blog.alyac.co.kr/1901,2019/10/24,,Suspicious HWP Sub Processes
+023394c4-29d5-46ab-92b8-6a534c6f447b,https://en.wikipedia.org/wiki/Hangul_(word_processor),2019/10/24,,Suspicious HWP Sub Processes
+10c14723-61c7-4c75-92ca-9af245723ad2,https://github.com/SecureAuthCorp/impacket/blob/master/examples/wmiexec.py,2019/09/03,,Impacket Lateralization Detection
+10c14723-61c7-4c75-92ca-9af245723ad2,https://github.com/SecureAuthCorp/impacket/blob/master/examples/atexec.py,2019/09/03,,Impacket Lateralization Detection
+10c14723-61c7-4c75-92ca-9af245723ad2,https://github.com/SecureAuthCorp/impacket/blob/master/examples/smbexec.py,2019/09/03,,Impacket Lateralization Detection
+10c14723-61c7-4c75-92ca-9af245723ad2,https://github.com/SecureAuthCorp/impacket/blob/master/examples/dcomexec.py,2019/09/03,,Impacket Lateralization Detection
+fa47597e-90e9-41cd-ab72-c3b74cfb0d02,Indirect Command Execution,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1202/T1202.yaml,2019/10/24,2019/11/11
+fa47597e-90e9-41cd-ab72-c3b74cfb0d02,Indirect Command Execution,https://eqllib.readthedocs.io/en/latest/analytics/884a7ccd-7305-4130-82d0-d4f90bc118b6.html,2019/10/24,2019/11/11
+ae215552-081e-44c7-805f-be16f975c8a2,https://blogs.technet.microsoft.com/jonathantrull/2016/10/03/detecting-sticky-key-backdoors/,2019/09/06,,Suspicious Debugger Registration Cmdline
+60fc936d-2eb0-4543-8a13-911c750a1dfc,Interactive AT Job,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1053/T1053.yaml,2019/10/24,2019/11/11
+60fc936d-2eb0-4543-8a13-911c750a1dfc,Interactive AT Job,https://eqllib.readthedocs.io/en/latest/analytics/d8db43cf-ed52-4f5c-9fb3-c9a4b95a0b56.html,2019/10/24,2019/11/11
+4bf943c6-5146-4273-98dd-e958fd1e3abf,,2019/11/08,,Invoke-Obfuscation Obfuscated IEX Invocation
+8065b1b4-1778-4427-877f-6bf948b26d38,https://www.slideshare.net/heirhabarov/hunting-for-privilege-escalation-in-windows-environment,2019/06/03,,Windows Kernel and 3rd-Party Drivers Exploits Token Stealing
+ed5d72a6-f8f4-479d-ba79-02f6a80d7471,https://codewhitesec.blogspot.com/2018/07/lethalhta.html,2018/06/07,,MSHTA Spwaned by SVCHOST
+502b42de-4306-40b4-9596-6f590c81f073,Local Accounts Discovery,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1033/T1033.yaml,2019/10/21,2019/11/04
+ffa6861c-4461-4f59-8a41-578c39f3f23e,LSASS Memory Dumping,https://eqllib.readthedocs.io/en/latest/analytics/1e1ef6be-12fc-11e9-8d76-4d6bb837cda4.html,2019/10/24,2019/11/11
+ffa6861c-4461-4f59-8a41-578c39f3f23e,LSASS Memory Dumping,https://eqllib.readthedocs.io/en/latest/analytics/210b4ea4-12fc-11e9-8d76-4d6bb837cda4.html,2019/10/24,2019/11/11
+ffa6861c-4461-4f59-8a41-578c39f3f23e,LSASS Memory Dumping,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1003/T1003.yaml,2019/10/24,2019/11/11
+e6eb5a96-9e6f-4a18-9cdd-642cfda21c8e,https://app.any.run/tasks/993daa5e-112a-4ff6-8b5a-edbcec7c7ba3,2019/01/10,,Dridex Process Pattern
+f1531fa4-5b84-4342-8f68-9cf3fdbd83d4,https://securelist.com/my-name-is-dtrack/93338/,2019/10/30,,DTRACK Process Creation
+f1531fa4-5b84-4342-8f68-9cf3fdbd83d4,https://app.any.run/tasks/4bc9860d-ab51-4077-9e09-59ad346b92fd/,2019/10/30,,DTRACK Process Creation
+f1531fa4-5b84-4342-8f68-9cf3fdbd83d4,https://app.any.run/tasks/ce4deab5-3263-494f-93e3-afb2b9d79f14/,2019/10/30,,DTRACK Process Creation
+d02e8cf5-6099-48cf-9bfc-1eec2d0c7b18,Emotet Process Creation,https://app.any.run/tasks/e13ab713-64cf-4b23-ad93-6dceaa5429ac/,2019/09/30,2019/10/16
+d02e8cf5-6099-48cf-9bfc-1eec2d0c7b18,Emotet Process Creation,https://app.any.run/tasks/81f3c28c-c686-425d-8a2b-a98198d244e1/,2019/09/30,2019/10/16
+d02e8cf5-6099-48cf-9bfc-1eec2d0c7b18,Emotet Process Creation,https://app.any.run/tasks/97f875e8-0e08-4328-815f-055e971ba754/,2019/09/30,2019/10/16
+d02e8cf5-6099-48cf-9bfc-1eec2d0c7b18,Emotet Process Creation,https://app.any.run/tasks/84fc9b4a-ea2b-47b1-8aa6-9014402dfb56/,2019/09/30,2019/10/16
+032f5fb3-d959-41a5-9263-4173c802dc2b,Formbook Process Creation,https://inquest.net/blog/2018/06/22/a-look-at-formbook-stealer,2019/09/30,2019/10/31
+032f5fb3-d959-41a5-9263-4173c802dc2b,Formbook Process Creation,https://app.any.run/tasks/388d5802-aa48-4826-b069-250420504758/,2019/09/30,2019/10/31
+032f5fb3-d959-41a5-9263-4173c802dc2b,Formbook Process Creation,https://app.any.run/tasks/8e22486b-5edc-4cef-821c-373e945f296c/,2019/09/30,2019/10/31
+032f5fb3-d959-41a5-9263-4173c802dc2b,Formbook Process Creation,https://app.any.run/tasks/62bb01ae-25a4-4180-b278-8e464a90b8d7/,2019/09/30,2019/10/31
+79aeeb41-8156-4fac-a0cd-076495ab82a1,https://securelist.com/schroedingers-petya/78870/,2019/01/16,,NotPetya Ransomware Activity
+79aeeb41-8156-4fac-a0cd-076495ab82a1,https://www.hybrid-analysis.com/sample/64b0b58a2c030c77fdb2b537b2fcc4af432bc55ffb36599a31d418c7c69e94b1?environmentId=100,2019/01/16,,NotPetya Ransomware Activity
+4fcac6eb-0287-4090-8eea-2602e4c20040,https://twitter.com/killamjr/status/1179034907932315648,2019/10/01,,QBot Process Creation
+4fcac6eb-0287-4090-8eea-2602e4c20040,https://app.any.run/tasks/2e0647b7-eb86-4f72-904b-d2d0ecac07d1/,2019/10/01,,QBot Process Creation
+c37510b8-2107-4b78-aa32-72f251e7a844,https://app.any.run/tasks/d860402c-3ff4-4c1f-b367-0237da714ed1/,2019/12/16,,Ryuk Ransomware
+cea72823-df4d-4567-950c-0b579eaf0846,,2019/01/16,,WScript or CScript Dropper
+410ad193-a728-4107-bc79-4419789fcbf8,https://www.sneakymonkey.net/2019/05/22/trickbot-analysis/,12/28/2019,,Trickbot Malware Recon Activity
+41d40bff-377a-43e2-8e1b-2e543069e079,https://www.hybrid-analysis.com/sample/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa?environmentId=100,2019/01/16,,WannaCry Ransomware
+1fac1481-2dbc-48b2-9096-753c49b4ec71,Adwind RAT / JRAT,https://www.hybrid-analysis.com/sample/ba86fa0d4b6af2db0656a88b1dd29f36fe362473ae8ad04255c4e52f214a541c?environmentId=100,2017/11/10,2018/12/11
+1fac1481-2dbc-48b2-9096-753c49b4ec71,Adwind RAT / JRAT,https://www.first.org/resources/papers/conf2017/Advanced-Incident-Detection-and-Threat-Hunting-using-Sysmon-and-Splunk.pdf,2017/11/10,2018/12/11
+17eb8e57-9983-420d-ad8a-2c4976c22eb8,https://twitter.com/gN3mes1s/status/941315826107510784,2018/12/12,,MavInject Process Injection
+17eb8e57-9983-420d-ad8a-2c4976c22eb8,https://reaqta.com/2017/12/mavinject-microsoft-injector/,2018/12/12,,MavInject Process Injection
+17eb8e57-9983-420d-ad8a-2c4976c22eb8,https://twitter.com/Hexacorn/status/776122138063409152,2018/12/12,,MavInject Process Injection
+15619216-e993-4721-b590-4c520615a67d,Meterpreter or Cobalt Strike Getsystem Service Start,https://speakerdeck.com/heirhabarov/hunting-for-privilege-escalation-in-windows-environment,2019/10/26,2019/11/11
+15619216-e993-4721-b590-4c520615a67d,Meterpreter or Cobalt Strike Getsystem Service Start,https://blog.cobaltstrike.com/2014/04/02/what-happens-when-i-type-getsystem/,2019/10/26,2019/11/11
+a642964e-bead-4bed-8910-1bb4d63e3b4d,https://www.slideshare.net/heirhabarov/hunting-for-credentials-dumping-in-windows-environment,2019/10/22,,Mimikatz Command Line
+05a2ab7e-ce11-4b63-86db-ab32e763e11d,,2019/08/05,,MMC Spawning Windows Shell
+67f113fa-e23d-4271-befa-30113b3e08b1,Mshta JavaScript Execution,https://eqllib.readthedocs.io/en/latest/analytics/6bc283c4-21f2-4aed-a05c-a9a3ffa95dd4.html,2019/10/24,2019/11/11
+67f113fa-e23d-4271-befa-30113b3e08b1,Mshta JavaScript Execution,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1170/T1170.yaml,2019/10/24,2019/11/11
+03cc0c25-389f-4bf8-b48d-11878079f1ca,https://www.trustedsec.com/july-2015/malicious-htas/,2019/01/16,,MSHTA Spawning Windows Shell
+61ab5496-748e-4818-a92f-de78e20fe7f1,https://car.mitre.org/wiki/CAR-2013-04-002,2019/01/16,,Quick Execution of a Series of Suspicious Commands
+cd5cfd80-aa5f-44c0-9c20-108c4ae12e3c,https://attack.mitre.org/software/S0246/ (Lazarus HARDRAIN),2019/01/29,,Netsh
+cd5cfd80-aa5f-44c0-9c20-108c4ae12e3c,https://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-RAT-and-Staging-Report.pdf,2019/01/29,,Netsh
+d3c3861d-c504-4c77-ba55-224ba82d0118,https://blogs.msdn.microsoft.com/canberrapfe/2012/03/30/capture-a-network-trace-without-installing-anything-capture-a-network-trace-of-a-reboot/,2019/10/24,,Capture a Network Trace with netsh.exe
+322ed9ec-fcab-4f67-9a34-e7c6aef43614,https://www.fireeye.com/blog/threat-research/2019/01/bypassing-network-restrictions-through-rdp-tunneling.html,2019/01/29,,Netsh Port Forwarding
+782d6f3e-4c5d-4b8c-92a3-1d05fed72e63,https://www.fireeye.com/blog/threat-research/2019/01/bypassing-network-restrictions-through-rdp-tunneling.html,2019/01/29,,Netsh RDP Port Forwarding
+ba1f7802-adc7-48b4-9ecb-81e227fddfd5,Network Sniffing,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1040/T1040.yaml,2019/10/21,2019/11/04
+62510e69-616b-4078-b371-847da438cc03,Windows Network Enumeration,https://eqllib.readthedocs.io/en/latest/analytics/b8a94d2f-dc75-4630-9d73-1edc6bd26fff.html,2018/10/30,2019/11/11
+62510e69-616b-4078-b371-847da438cc03,Windows Network Enumeration,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1018/T1018.yaml,2018/10/30,2019/11/11
+cd219ff3-fa99-45d4-8380-a7d15116c6dc,Net.exe User Account Creation,https://eqllib.readthedocs.io/en/latest/analytics/014c3f51-89c6-40f1-ac9c-5688f26090ab.html,2018/10/30,2019/11/11
+cd219ff3-fa99-45d4-8380-a7d15116c6dc,Net.exe User Account Creation,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1136/T1136.yaml,2018/10/30,2019/11/11
+7fe71fc9-de3b-432a-8d57-8c809efc10ab,New Service Creation,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1050/T1050.yaml,2019/10/21,2019/11/04
+f4bbd493-b796-416e-bbf2-121235348529,Non Interactive PowerShell,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/02_execution/T1086_powershell/basic_powershell_execution.md,2019/09/12,2019/11/10
+438025f9-5856-4663-83f7-52f878a70a50,https://www.hybrid-analysis.com/sample/465aabe132ccb949e75b8ab9c5bda36d80cf2fd503d52b8bad54e295f28bbc21?environmentId=100,2018/04/06,,Microsoft Office Product Spawning Windows Shell
+438025f9-5856-4663-83f7-52f878a70a50,https://mgreen27.github.io/posts/2018/04/02/DownloadCradle.html,2018/04/06,,Microsoft Office Product Spawning Windows Shell
+aa3a6f94-890e-4e22-b634-ffdfd54792cc,sha256=23160972c6ae07f740800fa28e421a81d7c0ca5d5cab95bc082b4a986fbac57c,2019/04/02,,MS Office Product Spawning Exe in User Dir
+aa3a6f94-890e-4e22-b634-ffdfd54792cc,https://blog.morphisec.com/fin7-not-finished-morphisec-spots-new-campaign,2019/04/02,,MS Office Product Spawning Exe in User Dir
+aeab5ec5-be14-471a-80e8-e344418305c2,http://www.hexacorn.com/blog/2016/03/10/beyond-good-ol-run-key-part-36/,2017/06/12,,Executable Used by PlugX in Uncommon Location
+aeab5ec5-be14-471a-80e8-e344418305c2,https://countuponsecurity.com/2017/06/07/threat-hunting-in-the-enterprise-with-appcompatprocessor/,2017/06/12,,Executable Used by PlugX in Uncommon Location
+82a19e3a-2bfe-4a91-8c0d-5d4c98fbb719,https://github.com/subTee/ApplicationWhitelistBypassTechniques/blob/master/TheList.txt,2019/01/16,,Possible Applocker Bypass
+82a19e3a-2bfe-4a91-8c0d-5d4c98fbb719,https://room362.com/post/2014/2014-01-16-application-whitelist-bypass-using-ieexec-dot-exe/,2019/01/16,,Possible Applocker Bypass
+6c5808ee-85a2-4e56-8137-72e5876a5096,Detection of Possible Rotten Potato,https://speakerdeck.com/heirhabarov/hunting-for-privilege-escalation-in-windows-environment,2019/10/26,2019/11/11
+6c5808ee-85a2-4e56-8137-72e5876a5096,Detection of Possible Rotten Potato,https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-service-accounts-to-system/,2019/10/26,2019/11/11
+30edb182-aa75-42c0-b0a9-e998bb29067c,https://twitter.com/mattifestation/status/735261176745988096,2018/08/17,,Powershell AMSI Bypass via .NET Reflection
+30edb182-aa75-42c0-b0a9-e998bb29067c,https://www.hybrid-analysis.com/sample/0ced17419e01663a0cd836c9c2eb925e3031ffb5b18ccf35f4dea5d586d0203e?environmentId=120,2018/08/17,,Powershell AMSI Bypass via .NET Reflection
+932fb0d8-692b-4b0f-a26e-5643a50fe7d6,Audio Capture via PowerShell,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1123/T1123.yaml,2019/10/24,2019/11/11
+932fb0d8-692b-4b0f-a26e-5643a50fe7d6,Audio Capture via PowerShell,https://eqllib.readthedocs.io/en/latest/analytics/ab7a6ef4-0983-4275-a4f1-5c6bd3c31c23.html,2019/10/24,2019/11/11
+2d117e49-e626-4c7c-bd1f-c3c0147774c8,https://twitter.com/cyb3rops/status/1063072865992523776,2018/11/17,,PowerShell Base64 Encoded Shellcode
+f67dbfce-93bc-440d-86ad-a95ae8858c90,Suspicious Bitsadmin Job via PowerShell,https://eqllib.readthedocs.io/en/latest/analytics/ec5180c9-721a-460f-bddc-27539a284273.html,2018/10/30,2019/11/11
+f67dbfce-93bc-440d-86ad-a95ae8858c90,Suspicious Bitsadmin Job via PowerShell,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1197/T1197.md,2018/10/30,2019/11/11
+6812a10b-60ea-420c-832f-dfcc33b646ba,https://github.com/p3nt4/PowerShdll/blob/master/README.md,2018/08/25,,Detection of PowerShell Execution via DLL
+3b6ab547-8ec2-4991-b9d2-2b06702a48d7,,2019/01/16,,PowerShell Download from URL
+e32d4572-9826-4738-b651-95fa63747e8a,https://gist.github.com/Neo23x0/6af876ee72b51676c82a2db8d2cd3639,2020/01/29,,FromBase64String Command Line
+36210e0d-5b19-485d-a087-c096088885f0,http://www.danielbohannon.com/blog-1/2017/3/12/powershell-execution-argument-obfuscation-how-it-can-make-detection-easier,2019/01/16,,Suspicious PowerShell Parameter Substring
+bb780e0c-16cf-4383-8383-1e5471db6cf9,,2018/09/05,,Suspicious XOR Encoded PowerShell Command Line
+56c217c3-2de2-479b-990f-5c109ba8458f,https://github.com/0xdeadbeefJERKY/PowerSploit/blob/8690399ef70d2cad10213575ac67e8fa90ddf7c3/Persistence/Persistence.psm1,2018/03/06,,Default PowerSploit and Empire Schtasks Persistence
+56c217c3-2de2-479b-990f-5c109ba8458f,https://github.com/EmpireProject/Empire/blob/master/lib/modules/powershell/persistence/userland/schtasks.py,2018/03/06,,Default PowerSploit and Empire Schtasks Persistence
+56c217c3-2de2-479b-990f-5c109ba8458f,https://github.com/EmpireProject/Empire/blob/master/lib/modules/powershell/persistence/elevated/schtasks.py,2018/03/06,,Default PowerSploit and Empire Schtasks Persistence
+d059842b-6b9d-4ed1-b5c3-5b89143c6ede,Bitsadmin Download,https://blog.netspi.com/15-ways-to-download-a-file/#bitsadmin,2017/03/09,2019/12/06
+d059842b-6b9d-4ed1-b5c3-5b89143c6ede,Bitsadmin Download,https://isc.sans.edu/diary/22264,2017/03/09,2019/12/06
+646ea171-dded-4578-8a4d-65e9822892e3,https://twitter.com/shantanukhande/status/1229348874298388484,2020/02/18,,Process Dump via Rundll32 and Comsvcs.dll
+96036718-71cc-4027-a538-d1587e0006a7,Windows Processes Suspicious Parent Directory,https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2,2019/02/23,2019/08/20
+96036718-71cc-4027-a538-d1587e0006a7,Windows Processes Suspicious Parent Directory,https://www.carbonblack.com/2014/06/10/screenshot-demo-hunt-evil-faster-than-ever-with-carbon-black/,2019/02/23,2019/08/20
+96036718-71cc-4027-a538-d1587e0006a7,Windows Processes Suspicious Parent Directory,https://www.13cubed.com/downloads/windows_process_genealogy_v2.pdf,2019/02/23,2019/08/20
+96036718-71cc-4027-a538-d1587e0006a7,Windows Processes Suspicious Parent Directory,https://attack.mitre.org/techniques/T1036/,2019/02/23,2019/08/20
+3ede524d-21cc-472d-a3ce-d21b568d8db7,,2018/03/13,2012/12/11,PsExec Service Start
+970007b7-ce32-49d0-a4a4-fbef016950bd,Query Registry,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1012/T1012.yaml,2019/10/21,2019/11/04
+6ba5a05f-b095-4f0a-8654-b825f4f16334,https://twitter.com/kmkz_security/status/1220694202301976576,2020/01/24,,MSTSC Shadowing
+6ba5a05f-b095-4f0a-8654-b825f4f16334,https://github.com/kmkz/Pentesting/blob/master/Post-Exploitation-Cheat-Sheet,2020/01/24,,MSTSC Shadowing
+734f8d9b-42b8-41b2-bcf5-abaf49d5a3c8,Remote PowerShell Session,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/02_execution/T1086_powershell/powershell_remote_session.md,2019/09/12,2019/11/10
+b243b280-65fe-48df-ba07-6ddea7646427,Discovery of a System Time,https://eqllib.readthedocs.io/en/latest/analytics/fcdb99c2-ac3c-4bde-b664-4b336329bed2.html,2019/10/24,2019/11/11
+b243b280-65fe-48df-ba07-6ddea7646427,Discovery of a System Time,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1124/T1124.md,2019/10/24,2019/11/11
+36480ae1-a1cb-4eaa-a0d6-29801d7e9142,Renamed Binary,https://attack.mitre.org/techniques/T1036/,2019/06/15,2019/11/11
+36480ae1-a1cb-4eaa-a0d6-29801d7e9142,Renamed Binary,https://mgreen27.github.io/posts/2019/05/12/BinaryRename.html,2019/06/15,2019/11/11
+36480ae1-a1cb-4eaa-a0d6-29801d7e9142,Renamed Binary,https://mgreen27.github.io/posts/2019/05/29/BinaryRename2.html,2019/06/15,2019/11/11
+0ba1da6d-b6ce-4366-828c-18826c9de23e,https://attack.mitre.org/techniques/T1036/,2019/06/15,,Highly Relevant Renamed Binary
+0ba1da6d-b6ce-4366-828c-18826c9de23e,https://mgreen27.github.io/posts/2019/05/12/BinaryRename.html,2019/06/15,,Highly Relevant Renamed Binary
+0ba1da6d-b6ce-4366-828c-18826c9de23e,https://mgreen27.github.io/posts/2019/05/29/BinaryRename2.html,2019/06/15,,Highly Relevant Renamed Binary
+7b0666ad-3e38-4e3d-9bab-78b06de85f7b,sha256=01a461ad68d11b5b5096f45eb54df9ba62c5af413fa9eb544eacb598373a26bc,2019/04/17,,Execution of Renamed PaExec
+7b0666ad-3e38-4e3d-9bab-78b06de85f7b,https://summit.fireeye.com/content/dam/fireeye-www/summit/cds-2018/presentations/cds18-technical-s05-att&cking-fin7.pdf,2019/04/17,,Execution of Renamed PaExec
+45a594aa-1fbd-4972-a809-ff5a99dd81b8,https://github.com/p0shkatz/Get-ADS/blob/master/Get-ADS.ps1,2019/10/30,,Run PowerShell Script from ADS
+517490a7-115a-48c6-8862-1a481504d5a8,https://www.fireeye.com/blog/threat-research/2017/05/fin7-shim-databases-persistence.html,2019/01/16,,Possible Shim Database Persistence via sdbinst.exe
+2a072a96-a086-49fa-bcb5-15cc5a619093,Service Execution,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1035/T1035.yaml,2019/10/21,2019/11/04
+eb87818d-db5d-49cc-a987-d5da331fbd90,,2019/10/23,2019/11/08,Stop Windows Service
+40b19fa6-d835-400c-b301-41f3a2baacaf,https://www.slideshare.net/heirhabarov/hunting-for-credentials-dumping-in-windows-environment,2019/10/22,,Shadow Copies Access via Symlink
+b17ea6f7-6e90-447e-a799-e6c0a493d6ce,https://www.slideshare.net/heirhabarov/hunting-for-credentials-dumping-in-windows-environment,2019/10/22,,Shadow Copies Creation Using Operating Systems Utilities
+b17ea6f7-6e90-447e-a799-e6c0a493d6ce,https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/tutorial-for-ntds-goodness-vssadmin-wmis-ntdsdit-system/,2019/10/22,,Shadow Copies Creation Using Operating Systems Utilities
+c947b146-0abc-4c87-9c64-b17e9d7274a2,https://www.slideshare.net/heirhabarov/hunting-for-credentials-dumping-in-windows-environment,2019/10/22,,Shadow Copies Deletion Using Operating Systems Utilities
+c947b146-0abc-4c87-9c64-b17e9d7274a2,https://blog.talosintelligence.com/2017/05/wannacry.html,2019/10/22,,Shadow Copies Deletion Using Operating Systems Utilities
+c947b146-0abc-4c87-9c64-b17e9d7274a2,https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/new-teslacrypt-ransomware-arrives-via-spam/,2019/10/22,,Shadow Copies Deletion Using Operating Systems Utilities
+c947b146-0abc-4c87-9c64-b17e9d7274a2,https://www.bleepingcomputer.com/news/security/why-everyone-should-disable-vssadmin-exe-now/,2019/10/22,,Shadow Copies Deletion Using Operating Systems Utilities
+c947b146-0abc-4c87-9c64-b17e9d7274a2,https://www.hybrid-analysis.com/sample/ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa?environmentId=100,2019/10/22,,Shadow Copies Deletion Using Operating Systems Utilities
+3a6586ad-127a-4d3b-a677-1e6eacdf8fde,Windows Shell Spawning Suspicious Program,https://mgreen27.github.io/posts/2018/04/02/DownloadCradle.html,2018/04/06,2019/02/05
+03552375-cc2c-4883-bbe4-7958d5a980be,SILENTTRINITY Stager Execution,https://github.com/byt3bl33d3r/SILENTTRINITY,2019/10/22,2019/11/04
+83865853-59aa-449e-9600-74b9d89a6d6e,Audio Capture via SoundRecorder,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1123/T1123.yaml,2019/10/24,2019/11/11
+83865853-59aa-449e-9600-74b9d89a6d6e,Audio Capture via SoundRecorder,https://eqllib.readthedocs.io/en/latest/analytics/f72a98cb-7b3d-4100-99c3-a138b6e9ff6e.html,2019/10/24,2019/11/11
+1eeed653-dbc8-4187-ad0c-eeebb20e6599,https://p16.praetorian.com/blog/how-to-use-kerberoasting-t1208-for-privilege-escalation,2018/11/14,,Possible SPN Enumeration
+c9fbe8e9-119d-40a6-9b59-dd58a5d84429,https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/bcdedit--set,2019/02/07,,Possible Ransomware or Unauthorized MBR Modifications
+aaf46cdc-934e-4284-b329-34aa701e3771,Application Whitelisting Bypass via Bginfo,https://github.com/LOLBAS-Project/LOLBAS/blob/master/yml/OtherMSBinaries/Bginfo.yml,2019/10/26,2019/11/04
+aaf46cdc-934e-4284-b329-34aa701e3771,Application Whitelisting Bypass via Bginfo,https://oddvar.moe/2017/05/18/bypassing-application-whitelisting-with-bginfo/,2019/10/26,2019/11/04
+737e618a-a410-49b5-bec3-9e55ff7fbc15,https://twitter.com/ItsReallyNick/status/1094080242686312448,2019/02/09,,Suspicious Calculator Usage
+b5c7395f-e501-4a08-94d4-57fe7a9da9d2,Possible App Whitelisting Bypass via WinDbg/CDB as a Shellcode Runner,https://github.com/LOLBAS-Project/LOLBAS/blob/master/yml/OtherMSBinaries/Cdb.yml,2019/10/26,2019/11/04
+b5c7395f-e501-4a08-94d4-57fe7a9da9d2,Possible App Whitelisting Bypass via WinDbg/CDB as a Shellcode Runner,http://www.exploit-monday.com/2016/08/windbg-cdb-shellcode-runner.html,2019/10/26,2019/11/04
+e011a729-98a6-4139-b5c4-bf6f6dd8239a,Suspicious Certutil Command,https://twitter.com/JohnLaTwC/status/835149808817991680,2019/01/16,2019/01/22
+e011a729-98a6-4139-b5c4-bf6f6dd8239a,Suspicious Certutil Command,https://twitter.com/subTee/status/888102593838362624,2019/01/16,2019/01/22
+e011a729-98a6-4139-b5c4-bf6f6dd8239a,Suspicious Certutil Command,https://twitter.com/subTee/status/888071631528235010,2019/01/16,2019/01/22
+e011a729-98a6-4139-b5c4-bf6f6dd8239a,Suspicious Certutil Command,https://blogs.technet.microsoft.com/pki/2006/11/30/basic-crl-checking-with-certutil/,2019/01/16,2019/01/22
+e011a729-98a6-4139-b5c4-bf6f6dd8239a,Suspicious Certutil Command,https://www.trustedsec.com/2017/07/new-tool-release-nps_payload/,2019/01/16,2019/01/22
+e011a729-98a6-4139-b5c4-bf6f6dd8239a,Suspicious Certutil Command,https://twitter.com/egre55/status/1087685529016193025,2019/01/16,2019/01/22
+e011a729-98a6-4139-b5c4-bf6f6dd8239a,Suspicious Certutil Command,https://lolbas-project.github.io/lolbas/Binaries/Certutil/,2019/01/16,2019/01/22
+e62a9f0c-ca1e-46b2-85d5-a6da77f86d1a,https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/certutil,2019/02/24,,Certutil Encode
+e62a9f0c-ca1e-46b2-85d5-a6da77f86d1a,https://unit42.paloaltonetworks.com/new-babyshark-malware-targets-u-s-national-security-think-tanks/,2019/02/24,,Certutil Encode
+f0cdd048-82dc-4f7a-8a7a-b87a52b6d0fd,https://twitter.com/vysecurity/status/885545634958385153,2018/12/11,,Suspicious Commandline Escape
+f0cdd048-82dc-4f7a-8a7a-b87a52b6d0fd,https://twitter.com/Hexacorn/status/885553465417756673,2018/12/11,,Suspicious Commandline Escape
+f0cdd048-82dc-4f7a-8a7a-b87a52b6d0fd,https://twitter.com/Hexacorn/status/885570278637678592,2018/12/11,,Suspicious Commandline Escape
+f0cdd048-82dc-4f7a-8a7a-b87a52b6d0fd,https://www.fireeye.com/blog/threat-research/2017/06/obfuscation-in-the-wild.html,2018/12/11,,Suspicious Commandline Escape
+f0cdd048-82dc-4f7a-8a7a-b87a52b6d0fd,http://www.windowsinspired.com/understanding-the-command-line-string-and-arguments-received-by-a-windows-program/,2018/12/11,,Suspicious Commandline Escape
+1ac8666b-046f-4201-8aba-1951aaec03a3,https://www.hybrid-analysis.com/sample/3a1f01206684410dbe8f1900bbeaaa543adfcd07368ba646b499fa5274b9edf6?environmentId=100,2019/01/16,,Command Line Execution with Suspicious URL and AppData Strings
+1ac8666b-046f-4201-8aba-1951aaec03a3,https://www.hybrid-analysis.com/sample/f16c729aad5c74f19784a24257236a8bbe27f7cdc4a89806031ec7f1bebbd475?environmentId=100,2019/01/16,,Command Line Execution with Suspicious URL and AppData Strings
+c7942406-33dd-4377-a564-0f62db0593a3,https://docs.microsoft.com/en-us/windows/win32/intl/code-page-identifiers,2019/10/14,,Suspicious Code Page Switch
+c7942406-33dd-4377-a564-0f62db0593a3,https://twitter.com/cglyer/status/1183756892952248325,2019/10/14,,Suspicious Code Page Switch
+2887e914-ce96-435f-8105-593937e90757,Reconnaissance Activity with Net Command,https://twitter.com/haroonmeer/status/939099379834658817,2018/08/22,2018/12/11
+2887e914-ce96-435f-8105-593937e90757,Reconnaissance Activity with Net Command,https://twitter.com/c_APT_ure/status/939475433711722497,2018/08/22,2018/12/11
+2887e914-ce96-435f-8105-593937e90757,Reconnaissance Activity with Net Command,https://www.fireeye.com/blog/threat-research/2016/05/targeted_attacksaga.html,2018/08/22,2018/12/11
+27a72a60-7e5e-47b1-9d17-909c9abafdcd,https://twitter.com/SBousseaden/status/1184067445612535811,2019/10/15,,Suspicious Compression Tool Parameters
+09e6d5c0-05b8-4ff8-9eeb-043046ec774c,https://modexp.wordpress.com/2019/08/30/minidumpwritedump-via-com-services-dll/,2019/09/02,,Process Dump via Comsvcs DLL
+09e6d5c0-05b8-4ff8-9eeb-043046ec774c,https://twitter.com/SBousseaden/status/1167417096374050817,2019/09/02,,Process Dump via Comsvcs DLL
+d7eb979b-c2b5-4a6f-a3a7-c87ce6763819,https://twitter.com/rikvduijn/status/853251879320662017,2017/04/15,,Suspicious Control Panel DLL Load
+855bc8b5-2ae8-402e-a9ed-b889e6df1900,https://twitter.com/SBousseaden/status/1211636381086339073,2019/12/30,,Copy from Admin Share
+b730a276-6b63-41b8-bcf8-55930c8fc6ee,https://twitter.com/SBousseaden/status/1094924091256176641,2019/02/11,,Suspicious Parent of Csc.exe
+dcaa3f04-70c3-427a-80b4-b870d73c94c4,Suspicious Csc.exe Source File Folder,https://securityboulevard.com/2019/08/agent-tesla-evading-edr-by-removing-api-hooks/,2019/08/24,2019/12/17
+dcaa3f04-70c3-427a-80b4-b870d73c94c4,Suspicious Csc.exe Source File Folder,https://www.clearskysec.com/wp-content/uploads/2018/11/MuddyWater-Operations-in-Lebanon-and-Oman.pdf,2019/08/24,2019/12/17
+dcaa3f04-70c3-427a-80b4-b870d73c94c4,Suspicious Csc.exe Source File Folder,https://app.any.run/tasks/c6993447-d1d8-414e-b856-675325e5aa09/,2019/08/24,2019/12/17
+dcaa3f04-70c3-427a-80b4-b870d73c94c4,Suspicious Csc.exe Source File Folder,https://twitter.com/gN3mes1s/status/1206874118282448897,2019/08/24,2019/12/17
+21dd6d38-2b18-4453-9404-a0fe4a0cc288,https://medium.com/@reegun/curl-exe-is-the-new-rundll32-exe-lolbin-3f79c5f35983,2020/01/13,,Curl Start Combination
+6345b048-8441-43a7-9bed-541133633d7a,https://twitter.com/gN3mes1s/status/1222088214581825540,2020/01/28,,ZOHO Dctask64 Process Injection
+6345b048-8441-43a7-9bed-541133633d7a,https://twitter.com/gN3mes1s/status/1222095963789111296,2020/01/28,,ZOHO Dctask64 Process Injection
+6345b048-8441-43a7-9bed-541133633d7a,https://twitter.com/gN3mes1s/status/1222095371175911424,2020/01/28,,ZOHO Dctask64 Process Injection
+cc268ac1-42d9-40fd-9ed3-8c4e1a5b87e6,Devtoolslauncher.exe Executes Specified Binary,https://github.com/LOLBAS-Project/LOLBAS/blob/master/yml/OtherMSBinaries/Devtoolslauncher.yml,2019/10/12,2019/11/04
+cc268ac1-42d9-40fd-9ed3-8c4e1a5b87e6,Devtoolslauncher.exe Executes Specified Binary,https://twitter.com/_felamos/status/1179811992841797632,2019/10/12,2019/11/04
+24357373-078f-44ed-9ac4-6d334a668a11,Direct Autorun Keys Modification,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1060/T1060.yaml,2019/10/25,2019/11/10
+81ebd28b-9607-4478-bf06-974ed9d53ed7,Application Whitelisting Bypass via Dnx.exe,https://github.com/LOLBAS-Project/LOLBAS/blob/master/yml/OtherMSBinaries/Csi.yml,2019/10/26,2019/11/04
+81ebd28b-9607-4478-bf06-974ed9d53ed7,Application Whitelisting Bypass via Dnx.exe,https://enigma0x3.net/2016/11/17/bypassing-application-whitelisting-by-using-dnx-exe/,2019/10/26,2019/11/04
+1cdd9a09-06c9-4769-99ff-626e2b3991b8,https://blu3-team.blogspot.com/2019/06/misleading-extensions-xlsexe-docexe.html,2019/06/26,,Suspicious Double Extension
+1cdd9a09-06c9-4769-99ff-626e2b3991b8,https://twitter.com/blackorbird/status/1140519090961825792,2019/06/26,,Suspicious Double Extension
+60f16a96-db70-42eb-8f76-16763e333590,Application Whitelisting Bypass via Dxcap.exe,https://github.com/LOLBAS-Project/LOLBAS/blob/master/yml/OtherMSBinaries/Dxcap.yml,2019/10/26,2019/11/04
+60f16a96-db70-42eb-8f76-16763e333590,Application Whitelisting Bypass via Dxcap.exe,https://twitter.com/harr0ey/status/992008180904419328,2019/10/26,2019/11/04
+cc36992a-4671-4f21-a91d-6c2b72a2edf5,Suspicious Eventlog Clear or Configuration Using Wevtutil,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1070/T1070.yaml,2019/09/26,2019/11/11
+cc36992a-4671-4f21-a91d-6c2b72a2edf5,Suspicious Eventlog Clear or Configuration Using Wevtutil,https://eqllib.readthedocs.io/en/latest/analytics/5b223758-07d6-4100-9e11-238cfdd0fe97.html,2019/09/26,2019/11/11
+3dfd06d2-eaf4-4532-9555-68aca59f57c4,,2019/01/16,,Execution in Non-Executable Folder
+35efb964-e6a5-47ad-bbcd-19661854018d,,2019/01/16,,Execution in Webserver Root Folder
+7a38aa19-86a9-4af7-ac51-6bfe4e59f254,Executables Started in Suspicious Folder,https://github.com/mbevilacqua/appcompatprocessor/blob/master/AppCompatSearch.txt,2017/10/14,2019/02/21
+7a38aa19-86a9-4af7-ac51-6bfe4e59f254,Executables Started in Suspicious Folder,https://www.secureworks.com/research/bronze-butler-targets-japanese-businesses,2017/10/14,2019/02/21
+7a38aa19-86a9-4af7-ac51-6bfe4e59f254,Executables Started in Suspicious Folder,https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/,2017/10/14,2019/02/21
+7a38aa19-86a9-4af7-ac51-6bfe4e59f254,Executables Started in Suspicious Folder,https://github.com/ThreatHuntingProject/ThreatHunting/blob/master/hunts/suspicious_process_creation_via_windows_event_logs.md,2017/10/14,2019/02/21
+57c4bf16-227f-4394-8ec7-1b745ee061c3,https://www.winhelponline.com/blog/enable-and-disable-windows-firewall-quickly-using-command-line/,2019/11/01,,Firewall Disabled via Netsh
+57c4bf16-227f-4394-8ec7-1b745ee061c3,https://app.any.run/tasks/210244b9-0b6b-4a2c-83a3-04bd3175d017/,2019/11/01,,Firewall Disabled via Netsh
+add64136-62e5-48ea-807e-88638d02df1e,Fsutil Suspicious Invocation,https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/fsutil-usn,2019/09/26,2019/11/11
+add64136-62e5-48ea-807e-88638d02df1e,Fsutil Suspicious Invocation,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1070/T1070.yaml,2019/09/26,2019/11/11
+add64136-62e5-48ea-807e-88638d02df1e,Fsutil Suspicious Invocation,https://eqllib.readthedocs.io/en/latest/analytics/c91f422a-5214-4b17-8664-c5fcf115c0a2.html,2019/09/26,2019/11/11
+0a4f6091-223b-41f6-8743-f322ec84930b,https://www.fireeye.com/blog/threat-research/2018/09/apt10-targeting-japanese-corporations-using-updated-ttps.html,2019/02/06,,Suspicious GUP Usage
+9465ddf4-f9e4-4ebd-8d98-702df3a93239,https://researchcenter.paloaltonetworks.com/2018/01/unit42-oilrig-uses-rgdoor-iis-backdoor-targets-middle-east/,2012/12/11,,IIS Native-Code Module Command Line Installation
+e22a6eb2-f8a5-44b5-8b44-a2dbd47b1144,https://twitter.com/200_okay_/status/1194765831911215104,2019/11/14,,Suspicious MsiExec Directory
+f7b5f842-a6af-4da5-9e95-e32478f3cd2f,MsiExec Web Install,https://blog.trendmicro.com/trendlabs-security-intelligence/attack-using-windows-installer-msiexec-exe-leads-lokibot/,2018/02/09,2012/12/11
+0c79148b-118e-472b-bdb7-9b57b444cc19,Malicious Payload Download via Office Binaries,https://github.com/LOLBAS-Project/LOLBAS/blob/master/yml/OtherMSBinaries/Powerpnt.yml,2019/10/26,2019/11/04
+0c79148b-118e-472b-bdb7-9b57b444cc19,Malicious Payload Download via Office Binaries,https://medium.com/@reegun/unsanitized-file-validation-leads-to-malicious-payload-download-via-office-binaries-202d02db7191,2019/10/26,2019/11/04
+0c79148b-118e-472b-bdb7-9b57b444cc19,Malicious Payload Download via Office Binaries,Reegun J (OCBC Bank),2019/10/26,2019/11/04
+56321594-9087-49d9-bf10-524fe8479452,Suspicious Netsh DLL Persistence,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1060/T1060.yaml,2019/10/25,2019/10/25
+183e7ea8-ac4b-4c23-9aec-b3dac4e401ac,https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/,2019/01/16,,Net.exe Execution
+183e7ea8-ac4b-4c23-9aec-b3dac4e401ac,https://eqllib.readthedocs.io/en/latest/analytics/4d2e7fc1-af0b-4915-89aa-03d25ba7805e.html,2019/01/16,,Net.exe Execution
+183e7ea8-ac4b-4c23-9aec-b3dac4e401ac,https://eqllib.readthedocs.io/en/latest/analytics/e61f557c-a9d0-4c25-ab5b-bbc46bb24deb.html,2019/01/16,,Net.exe Execution
+183e7ea8-ac4b-4c23-9aec-b3dac4e401ac,https://eqllib.readthedocs.io/en/latest/analytics/9b3dd402-891c-4c4d-a662-28947168ce61.html,2019/01/16,,Net.exe Execution
+2afafd61-6aae-4df4-baed-139fa1f4c345,https://jpcertcc.github.io/ToolAnalysisResultSheet/details/ntdsutil.htm,2019/01/16,,Invocation of Active Directory Diagnostic Tool (ntdsutil.exe)
+65d2be45-8600-4042-b4c0-577a1ff8a60e,Application Whitelisting Bypass via DLL Loaded by odbcconf.exe,https://github.com/LOLBAS-Project/LOLBAS/blob/master/yml/OSBinaries/Odbcconf.yml,2019/10/25,2019/11/07
+65d2be45-8600-4042-b4c0-577a1ff8a60e,Application Whitelisting Bypass via DLL Loaded by odbcconf.exe,https://twitter.com/Hexacorn/status/1187143326673330176,2019/10/25,2019/11/07
+cec8e918-30f7-4e2d-9bfa-a59cc97ae60f,OpenWith.exe Executes Specified Binary,https://github.com/LOLBAS-Project/LOLBAS/blob/master/yml/LOLUtilz/OSBinaries/Openwith.yml,2019/10/12,2019/11/04
+cec8e918-30f7-4e2d-9bfa-a59cc97ae60f,OpenWith.exe Executes Specified Binary,https://twitter.com/harr0ey/status/991670870384021504,2019/10/12,2019/11/04
+e212d415-0e93-435f-9e1a-f29005bb4723,https://github.com/sensepost/ruler,2018/12/27,,Suspicious Execution from Outlook
+e212d415-0e93-435f-9e1a-f29005bb4723,https://www.fireeye.com/blog/threat-research/2018/12/overruled-containing-a-potentially-destructive-adversary.html,2018/12/27,,Suspicious Execution from Outlook
+a018fdc3-46a3-44e5-9afb-2cd4af1d4b39,,2019/10/01,,Execution in Outlook Temp Folder
+1a0d4aba-7668-4365-9ce4-6d79ab088dfd,https://github.com/vysec/Aggressor-VYSEC/blob/master/ping.cna,2018/03/23,,Ping Hex IP
+1a0d4aba-7668-4365-9ce4-6d79ab088dfd,https://twitter.com/vysecurity/status/977198418354491392,2018/03/23,,Ping Hex IP
+79f4ede3-402e-41c8-bc3e-ebbf5f162581,https://github.com/EmpireProject/Empire/blob/c2ba61ca8d2031dad0cfc1d5770ba723e8b710db/lib/common/helpers.py#L165,2019/04/20,,Empire PowerShell Launch Parameters
+79f4ede3-402e-41c8-bc3e-ebbf5f162581,https://github.com/EmpireProject/Empire/blob/e37fb2eef8ff8f5a0a689f1589f424906fe13055/lib/modules/powershell/persistence/powerbreach/deaduser.py#L191,2019/04/20,,Empire PowerShell Launch Parameters
+79f4ede3-402e-41c8-bc3e-ebbf5f162581,https://github.com/EmpireProject/Empire/blob/e37fb2eef8ff8f5a0a689f1589f424906fe13055/lib/modules/powershell/persistence/powerbreach/resolver.py#L178,2019/04/20,,Empire PowerShell Launch Parameters
+79f4ede3-402e-41c8-bc3e-ebbf5f162581,https://github.com/EmpireProject/Empire/blob/e37fb2eef8ff8f5a0a689f1589f424906fe13055/data/module_source/privesc/Invoke-EventVwrBypass.ps1#L64,2019/04/20,,Empire PowerShell Launch Parameters
+3268b746-88d8-4cd3-bffc-30077d02c787,https://github.com/EmpireProject/Empire/blob/e37fb2eef8ff8f5a0a689f1589f424906fe13055/data/module_source/privesc/Invoke-EventVwrBypass.ps1#L64,2019/08/30,,Empire PowerShell UAC Bypass
+3268b746-88d8-4cd3-bffc-30077d02c787,https://github.com/EmpireProject/Empire/blob/e37fb2eef8ff8f5a0a689f1589f424906fe13055/data/module_source/privesc/Invoke-FodHelperBypass.ps1#L64,2019/08/30,,Empire PowerShell UAC Bypass
+ca2092a1-c273-4878-9b4b-0d60115bf5ea,Suspicious Encoded PowerShell Command Line,https://app.any.run/tasks/6217d77d-3189-4db2-a957-8ab239f3e01e,2018/09/03,2019/12/16
+f26c6093-6f14-4b12-800f-0fcb46f5ffd0,http://www.leeholmes.com/blog/2017/09/21/searching-for-content-in-base-64-strings/,2019/01/16,,Malicious Base64 Encoded PowerShell Keywords in Command Lines
+95eadcb2-92e4-4ed1-9031-92547773a6db,https://www.carbonblack.com/2017/03/15/attackers-leverage-excel-powershell-dns-latest-non-malware-attack/,2019/01/16,,Suspicious PowerShell Invocation Based on Parent Process
+5afee48e-67dd-4e03-a783-f74259dcf998,Suspicious Use of Procdump,Internal Research,2018/10/30,2019/10/14
+f50bfd8b-e2a3-4c15-9373-7900b5a4c6d5,https://docs.google.com/spreadsheets/d/17pSTDNpa0sf6pHeRhusvWG6rThciE8CsXTSlDUAZDyo,2019/01/15,,Suspicious Program Location Process Starts
+2158f96f-43c2-43cb-952a-ab4580f32382,Psr.exe Capture Screenshots,https://github.com/LOLBAS-Project/LOLBAS/blob/master/yml/LOLUtilz/OSBinaries/Psr.yml,2019/10/12,2019/11/04
+2158f96f-43c2-43cb-952a-ab4580f32382,Psr.exe Capture Screenshots,https://www.sans.org/summit-archives/file/summit-archive-1493861893.pdf,2019/10/12,2019/11/04
+ac175779-025a-4f12-98b0-acdaeb77ea85,https://twitter.com/JohnLaTwC/status/1082851155481288706,2019/01/09,,PowerShell Script Run in AppData
+ac175779-025a-4f12-98b0-acdaeb77ea85,https://app.any.run/tasks/f87f1c4e-47e2-4c46-9cf4-31454c06ce03,2019/01/09,,PowerShell Script Run in AppData
+6bba49bf-7f8c-47d6-a1bb-6b4dece4640e,https://twitter.com/subTee/status/891298217907830785,2019/01/16,,Suspicious RASdial Activity
+d95de845-b83c-4a9a-8a6a-4fc802ebf6c0,,2019/01/16,,Suspicious Reconnaissance Activity
+8e2b24c9-4add-46a0-b4bb-0057b4e6187d,https://subt0x10.blogspot.de/2017/04/bypass-application-whitelisting-script.html,2019/01/16,,Regsvr32 Anomaly
+340a090b-c4e9-412e-bb36-b4b16fe96f9b,https://twitter.com/gN3mes1s/status/1222088214581825540,2020/01/28,,Renamed ZOHO Dctask64
+340a090b-c4e9-412e-bb36-b4b16fe96f9b,https://twitter.com/gN3mes1s/status/1222095963789111296,2020/01/28,,Renamed ZOHO Dctask64
+340a090b-c4e9-412e-bb36-b4b16fe96f9b,https://twitter.com/gN3mes1s/status/1222095371175911424,2020/01/28,,Renamed ZOHO Dctask64
+e593cf51-88db-4ee1-b920-37e89012a3c9,http://www.hexacorn.com/blog/2017/05/01/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline/,2019/01/16,,Suspicious Rundll32 Activity
+e593cf51-88db-4ee1-b920-37e89012a3c9,https://twitter.com/Hexacorn/status/885258886428725250,2019/01/16,,Suspicious Rundll32 Activity
+e593cf51-88db-4ee1-b920-37e89012a3c9,https://gist.github.com/ryhanson/227229866af52e2d963cf941af135a52,2019/01/16,,Suspicious Rundll32 Activity
+e79a9e79-eb72-4e78-a628-0e7e8f59e89c,https://techtalk.pcmatic.com/2017/11/30/running-dll-files-malware-analysis/,2019/10/22,,Suspicious Call by Ordinal
+e79a9e79-eb72-4e78-a628-0e7e8f59e89c,https://github.com/Neo23x0/DLLRunner,2019/10/22,,Suspicious Call by Ordinal
+e79a9e79-eb72-4e78-a628-0e7e8f59e89c,https://twitter.com/cyb3rops/status/1186631731543236608,2019/10/22,,Suspicious Call by Ordinal
+15b75071-74cc-47e0-b4c6-b43744a62a2b,https://car.mitre.org/wiki/CAR-2013-05-002,2019/01/16,,Suspicious Process Start Locations
+92626ddd-662c-49e3-ac59-f6535f12d189,,2019/01/16,,Scheduled Task Creation
+1e33157c-53b1-41ad-bbcc-780b80b58288,,2019/01/16,,WSF/JSE/JS/VBA/VBE File Execution
+138d3531-8793-4f50-a2cd-f291b2863d78,Suspicious Service Path Modification,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1031/T1031.yaml,2019/10/21,2019/11/10
+fa4b21c9-0057-4493-b289-2556416ae4d7,http://www.hexacorn.com/blog/2019/03/30/sqirrel-packages-manager-as-a-lolbin-a-k-a-many-electron-apps-are-lolbins-by-default/,2019/11/12,,Squirrel Lolbin
+fa4b21c9-0057-4493-b289-2556416ae4d7,http://www.hexacorn.com/blog/2018/08/16/squirrel-as-a-lolbin/,2019/11/12,,Squirrel Lolbin
+01d2e2a1-5f09-44f7-9fc1-24faa7479b6d,,2017/08/15,,Suspicious Svchost Process
+16c37b52-b141-42a5-a3ea-bbe098444397,https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2,12/28/2019,,Suspect Svchost Activity
+d5b9ae7a-e6fc-405e-80ff-2ff9dcc64e7e,Sysprep on AppData Folder,https://www.symantec.com/blogs/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets,2018/06/22,2018/12/11
+d5b9ae7a-e6fc-405e-80ff-2ff9dcc64e7e,Sysprep on AppData Folder,https://app.any.run/tasks/61a296bb-81ad-4fee-955f-3b399f4aaf4b,2018/06/22,2018/12/11
+05f3c945-dcc8-4393-9f3d-af65077a8f86,Suspicious SYSVOL Domain Group Policy Access,https://adsecurity.org/?p=2288,2018/04/09,2018/12/11
+05f3c945-dcc8-4393-9f3d-af65077a8f86,Suspicious SYSVOL Domain Group Policy Access,https://www.hybrid-analysis.com/sample/f2943f5e45befa52fb12748ca7171d30096e1d4fc3c365561497c618341299d5?environmentId=100,2018/04/09,2018/12/11
+9fff585c-c33e-4a86-b3cd-39312079a65f,,2018/03/18,,Taskmgr as LOCAL_SYSTEM
+3d7679bd-0c00-440c-97b0-3f204273e6c7,,2018/03/13,,Taskmgr as Parent
+9847f263-4a81-424f-970c-875dab15b79b,http://www.korznikov.com/2017/03/0-day-or-feature-privilege-escalation.html,2018/03/17,,Suspicious TSCON Start
+9847f263-4a81-424f-970c-875dab15b79b,https://medium.com/@networksecurity/rdp-hijacking-how-to-hijack-rds-and-remoteapp-sessions-transparently-to-move-through-an-da2a1e73a5f6,2018/03/17,,Suspicious TSCON Start
+f72aa3e8-49f9-4c7d-bd74-f8ab84ff9bbb,Suspicious RDP Redirect Using TSCON,http://www.korznikov.com/2017/03/0-day-or-feature-privilege-escalation.html,2018/03/17,2018/12/11
+f72aa3e8-49f9-4c7d-bd74-f8ab84ff9bbb,Suspicious RDP Redirect Using TSCON,https://medium.com/@networksecurity/rdp-hijacking-how-to-hijack-rds-and-remoteapp-sessions-transparently-to-move-through-an-da2a1e73a5f6,2018/03/17,2018/12/11
+b655a06a-31c0-477a-95c2-3726b83d649d,https://twitter.com/SBousseaden/status/1139811587760562176,2019/06/17,,Suspicious Userinit Child Process
+e28a5a99-da44-436d-b7a0-2afc20a5f413,https://brica.de/alerts/alert/public/1247926/agent-tesla-keylogger-delivered-inside-a-power-iso-daa-archive/,2018/08/13,,Whoami Execution
+e28a5a99-da44-436d-b7a0-2afc20a5f413,https://app.any.run/tasks/7eaba74e-c1ea-400f-9c17-5e30eee89906/,2018/08/13,,Whoami Execution
+526be59f-a573-4eea-b5f7-f0973207634d,https://digital-forensics.sans.org/blog/2010/06/04/wmic-draft/,2019/01/16,,Suspicious WMI Execution
+526be59f-a573-4eea-b5f7-f0973207634d,https://www.hybrid-analysis.com/sample/4be06ecd234e2110bd615649fe4a6fa95403979acf889d7e45a78985eb50acf9?environmentId=1,2019/01/16,,Suspicious WMI Execution
+526be59f-a573-4eea-b5f7-f0973207634d,https://blog.malwarebytes.com/threat-analysis/2016/04/rokku-ransomware/,2019/01/16,,Suspicious WMI Execution
+4d7cda18-1b12-4e52-b45c-d28653210df8,Sysmon Driver Unload,https://www.darkoperator.com/blog/2018/10/5/operating-offensively-against-sysmon,2019/10/23,2019/11/07
+e4a6b256-3e47-40fc-89d2-7a477edd6915,https://twitter.com/GelosSnake/status/934900723426439170,2017/11/27,,System File Execution Location Anomaly
+99793437-3e16-439b-be0f-078782cf953d,,2019/10/24,,Tap Installer Execution
+cc4e02ba-9c06-48e2-b09e-2500cace9ae0,https://twitter.com/subTee/status/1216465628946563073,2020/13/01,,Tasks Folder Evasion
+cc4e02ba-9c06-48e2-b09e-2500cace9ae0,https://gist.github.com/am0nsec/8378da08f848424e4ab0cc5b317fdd26,2020/13/01,,Tasks Folder Evasion
+1012f107-b8f1-4271-af30-5aed2de89b39,https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/rdp-stands-for-really-do-patch-understanding-the-wormable-rdp-vulnerability-cve-2019-0708/,2019/05/22,,Terminal Service Process Spawn
+3bad990e-4848-4a78-9530-b427d854aac0,Domain Trust Discovery,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1482/T1482.md,2019/10/24,2019/11/11
+3bad990e-4848-4a78-9530-b427d854aac0,Domain Trust Discovery,https://eqllib.readthedocs.io/en/latest/analytics/03e231a6-74bc-467a-acb1-e5676b0fb55e.html,2019/10/24,2019/11/11
+e66779cc-383e-4224-a3a4-267eeb585c40,Bypass UAC via CMSTP,https://eqllib.readthedocs.io/en/latest/analytics/e584f1a1-c303-4885-8a66-21360c90995b.html,2019/10/24,2019/11/11
+e66779cc-383e-4224-a3a4-267eeb585c40,Bypass UAC via CMSTP,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1191/T1191.md,2019/10/24,2019/11/11
+7f741dcf-fc22-4759-87b4-9ae8376676a2,Bypass UAC via Fodhelper.exe,https://eqllib.readthedocs.io/en/latest/analytics/e491ce22-792f-11e9-8f5c-d46d6d62a49e.html,2019/10/24,2019/11/11
+7f741dcf-fc22-4759-87b4-9ae8376676a2,Bypass UAC via Fodhelper.exe,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1088/T1088.md,2019/10/24,2019/11/11
+d797268e-28a9-49a7-b9a8-2f5039011c5c,Bypass UAC via WSReset.exe,https://eqllib.readthedocs.io/en/latest/analytics/532b5ed4-7930-11e9-8f5c-d46d6d62a49e.html,2019/10/24,2019/11/11
+d937b75f-a665-4480-88a5-2f20e9f9b22a,Possible Privilege Escalation via Weak Service Permissions,https://speakerdeck.com/heirhabarov/hunting-for-privilege-escalation-in-windows-environment,2019/10/26,2019/11/11
+d937b75f-a665-4480-88a5-2f20e9f9b22a,Possible Privilege Escalation via Weak Service Permissions,https://pentestlab.blog/2017/03/30/weak-service-permissions/,2019/10/26,2019/11/11
+8f88e3f6-2a49-48f5-a5c4-2f7eedf78710,,2019/01/16,,Java Running with Remote Debugging
+bed2a484-9348-4143-8a8a-b801c979301c,,2017/01/01,2019/10/26,Webshell Detection With Command Line Keywords
+8202070f-edeb-4d31-a010-a26c72ac5600,,2019/01/16,2020/03/03,Shells Spawned by Web Servers
+80167ada-7a12-41ed-b8e9-aa47195c66a1,Run Whoami as SYSTEM,https://speakerdeck.com/heirhabarov/hunting-for-privilege-escalation-in-windows-environment,2019/10/23,2019/11/11
+931b6802-d6a6-4267-9ffa-526f57f22aaf,https://github.com/SandboxEscaper/polarbearrepo/tree/master/bearlpe,2019/05/22,,Windows 10 Scheduled Task SandboxEscaper 0-day
+d21374ff-f574-44a7-9998-4a8c8bf33d7d,Wmiprvse Spawning Process,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/02_execution/T1047_windows_management_instrumentation/wmi_win32_process_create_remote.md,2019/08/15,2019/11/10
+797011dc-44f4-4e6f-9f10-a8ceefbe566b,https://twitter.com/cglyer/status/1182389676876980224,2019/10/11,,WMI Backdoor Exchange Transport Agent
+797011dc-44f4-4e6f-9f10-a8ceefbe566b,https://twitter.com/cglyer/status/1182391019633029120,2019/10/11,,WMI Backdoor Exchange Transport Agent
+ec1d5e28-8f3b-4188-a6f8-6e8df81dc28e,https://www.eideon.com/2018-03-02-THL03-WMIBackdoors/,2018/03/07,,WMI Persistence - Script Event Consumer
+692f0bec-83ba-4d04-af7e-e884a96059b6,https://github.com/Neo23x0/sigma/blob/master/rules/windows/process_creation/win_shell_spawn_susp_program.yml,2019/04/03,,WMI Spawning Windows PowerShell
+692f0bec-83ba-4d04-af7e-e884a96059b6,https://any.run/report/68bc255f9b0db6a0d30a8f2dadfbee3256acfe12497bf93943bc1eab0735e45e/a2385d6f-34f7-403c-90d3-b1f9d2a90a5e,2019/04/03,,WMI Spawning Windows PowerShell
+419dbf2b-8a9b-4bea-bf99-7544b050ec8d,https://posts.specterops.io/arbitrary-unsigned-code-execution-vector-in-microsoft-workflow-compiler-exe-3d9294bc5efb,2019/01/16,,Microsoft Workflow Compiler
+bdc8918e-a1d5-49d1-9db7-ea0fd91aa2ae,https://lolbas-project.github.io/lolbas/Binaries/Wsreset/,2020/01/30,,Wsreset UAC Bypass
+bdc8918e-a1d5-49d1-9db7-ea0fd91aa2ae,https://www.activecyber.us/activelabs/windows-uac-bypass,2020/01/30,,Wsreset UAC Bypass
+bdc8918e-a1d5-49d1-9db7-ea0fd91aa2ae,https://twitter.com/ReaQta/status/1222548288731217921,2020/01/30,,Wsreset UAC Bypass
+05c36dd6-79d6-4a9a-97da-3db20298ab2d,XSL Script Processing,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1220/T1220.yaml,2019/10/21,2019/11/04
+b69888d4-380c-45ce-9cf9-d9ce46e67821,https://twitter.com/0xrawsec/status/1002478725605273600?s=21,2018/06/03,,Executable in ADS
+f67f6c57-257d-4919-a416-69cd31f9aac3,Alternate PowerShell Hosts Module Load,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/02_execution/T1086_powershell/alternate_signed_powershell_hosts.md,2019/09/12,2019/11/10
+58cb02d5-78ce-4692-b3e1-dce850aae41a,Alternate PowerShell Hosts Pipe,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/02_execution/T1086_powershell/alternate_signed_powershell_hosts.md,2019/09/12,2019/11/10
+4ac5fc44-a601-4c06-955b-309df8c4e9d4,https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/,2019/04/14,,OceanLotus Registry Activity
+47e0852a-cf81-4494-a8e6-31864f8c86ed,https://wikileaks.org/vault7/#Pandemic,2017/06/01,,Pandemic Registry Key
+47e0852a-cf81-4494-a8e6-31864f8c86ed,https://twitter.com/MalwareJake/status/870349480356454401,2017/06/01,,Pandemic Registry Key
+739915e4-1e70-4778-8b8a-17db02f66db1,Internal Research,2017/11/06,,Turla Group Named Pipes
+17f878b8-9968-4578-b814-c4217fc5768c,Autorun Keys Modification,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1060/T1060.yaml,2019/10/21,2019/11/10
+2e4e488a-6164-4811-9ea1-f960c7359c40,https://twitter.com/SBousseaden/status/1090588499517079552,2019/02/01,,CACTUSTORCH Remote Thread Creation
+2e4e488a-6164-4811-9ea1-f960c7359c40,https://github.com/mdsecactivebreach/CACTUSTORCH,2019/02/01,,CACTUSTORCH Remote Thread Creation
+9d26fede-b526-4413-b069-6e24b6d07167,http://www.endurant.io/cmstp/detecting-cmstp-enabled-code-execution-and-uac-bypass-with-sysmon/,2018/07/16,,CMSTP Execution
+6309645e-122d-4c5b-bb2b-22e4f9c2fa42,CobaltStrike Process Injection,https://medium.com/@olafhartong/cobalt-strike-remote-threads-detection-206372d11d0f,2018/11/30,2019/11/08
+6309645e-122d-4c5b-bb2b-22e4f9c2fa42,CobaltStrike Process Injection,https://blog.cobaltstrike.com/2018/04/09/cobalt-strike-3-11-the-snake-that-eats-its-tail/,2018/11/30,2019/11/08
+052ec6f6-1adc-41e6-907a-f1c813478bee,CreateRemoteThread API and LoadLibrary,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/05_defense_evasion/T1055_process_injection/dll_injection_createremotethread_loadlibrary.md,2019/08/11,2019/11/10
+32d0d3e2-e58d-4d41-926b-18b520b2b32d,Credentials Dumping Tools Accessing LSASS Memory,https://onedrive.live.com/view.aspx?resid=D026B4699190F1E6!2843&ithint=file%2cpptx&app=PowerPoint&authkey=!AMvCRTKB_V1J5ow,2017/02/16,2019/11/08
+32d0d3e2-e58d-4d41-926b-18b520b2b32d,Credentials Dumping Tools Accessing LSASS Memory,https://cyberwardog.blogspot.com/2017/03/chronicles-of-threat-hunter-hunting-for_22.html,2017/02/16,2019/11/08
+32d0d3e2-e58d-4d41-926b-18b520b2b32d,Credentials Dumping Tools Accessing LSASS Memory,https://www.slideshare.net/heirhabarov/hunting-for-credentials-dumping-in-windows-environment,2017/02/16,2019/11/08
+32d0d3e2-e58d-4d41-926b-18b520b2b32d,Credentials Dumping Tools Accessing LSASS Memory,http://security-research.dyndns.org/pub/slides/FIRST2017/FIRST-2017_Tom-Ueltschi_Sysmon_FINAL_notes.pdf,2017/02/16,2019/11/08
+8fbf3271-1ef6-4e94-8210-03c2317947f6,Cred Dump Tools Dropped Files,https://www.slideshare.net/heirhabarov/hunting-for-credentials-dumping-in-windows-environment,2019/11/01,2019/11/13
+961d0ba2-3eea-4303-a930-2cf78bbfcc5e,https://www.slideshare.net/heirhabarov/hunting-for-credentials-dumping-in-windows-environment,2019/11/01,,Cred Dump-Tools Named Pipes
+9d3436ef-9476-4c43-acca-90ce06bdf33a,https://blog.3or.de/mimilib-dhcp-server-callout-dll-injection.html,2017/05/15,,DHCP Callout DLL Installation
+9d3436ef-9476-4c43-acca-90ce06bdf33a,https://technet.microsoft.com/en-us/library/cc726884(v=ws.10).aspx,2017/05/15,,DHCP Callout DLL Installation
+9d3436ef-9476-4c43-acca-90ce06bdf33a,https://msdn.microsoft.com/de-de/library/windows/desktop/aa363389(v=vs.85).aspx,2017/05/15,,DHCP Callout DLL Installation
+919f2ef0-be2d-4a7a-b635-eb2b41fde044,Disable Security Events Logging Adding Reg Key MiniNt,https://twitter.com/0gtweet/status/1182516740955226112,2019/10/25,2019/11/13
+e61e8a88-59a9-451c-874e-70fcc9740d67,https://medium.com/@esnesenon/feature-not-bug-dnsadmin-to-dc-compromise-in-one-line-a0f779b8dc83,2017/05/08,,DNS ServerLevelPluginDll Install
+e074832a-eada-4fd7-94a1-10642b130e16,https://github.com/GhostPack/SafetyKatz,2018/07/24,,Detection of SafetyKatz
+2704ab9e-afe2-4854-a3b1-0c0706d03578,https://github.com/outflanknl/Dumpert,2020/02/04,,Dumpert Process Dumper
+2704ab9e-afe2-4854-a3b1-0c0706d03578,https://unit42.paloaltonetworks.com/actors-still-exploiting-sharepoint-vulnerability/,2020/02/04,,Dumpert Process Dumper
+7aa7009a-28b9-4344-8c1f-159489a390df,https://www.ampliasecurity.com/research/windows-credentials-editor/,2019/12/31,,Windows Credential Editor
+166e9c50-8cd9-44af-815d-d1f0c0e90dde,https://github.com/hlldz/Invoke-Phant0m,2020/01/02,,Suspect Svchost Memory Asccess
+166e9c50-8cd9-44af-815d-d1f0c0e90dde,https://twitter.com/timbmsft/status/900724491076214784,2020/01/02,,Suspect Svchost Memory Asccess
+5f113a8f-8b61-41ca-b90f-d374fa7e4a39,https://azure.microsoft.com/en-ca/blog/detecting-in-memory-attacks-with-sysmon-and-azure-security-center/,27/10/2019,,Suspicious In-Memory Module Execution
+092bc4b9-3d1d-43b4-a6b4-8c8acd83522f,In-memory PowerShell,https://adsecurity.org/?p=2921,2019/11/14,2019/11/30
+092bc4b9-3d1d-43b4-a6b4-8c8acd83522f,In-memory PowerShell,https://github.com/p3nt4/PowerShdll,2019/11/14,2019/11/30
+0a98a10c-685d-4ab0-bddc-b6bdd1d48458,https://attack.mitre.org/techniques/T1037/,2019/01/12,,Logon Scripts (UserInitMprLogonScript)
+5ef9853e-4d0e-4a70-846f-a9ca37d876da,https://blog.menasec.net/2019/02/threat-hunting-21-procdump-or-taskmgr.html,2019/04/03,,LSASS Memory Dump
+5e3d3601-0662-4af0-b1d2-36a05e90c40a,LSASS Memory Dump File Creation,https://www.slideshare.net/heirhabarov/hunting-for-credentials-dumping-in-windows-environment,2019/10/22,2019/11/13
+4b89abaa-99fe-4232-afdd-8f9aa4d20382,https://docs.google.com/spreadsheets/d/17pSTDNpa0sf6pHeRhusvWG6rThciE8CsXTSlDUAZDyo,2017/03/19,,Suspicious Typical Malware Back Connect Ports
+b7967e22-3d7e-409b-9ed5-cdae3f9243a1,https://twitter.com/JohnLaTwC/status/837743453039534080,2017/03/04,,Malware Shellcode in Verclsid Target Process
+fe3ac066-98bb-432a-b1e7-a5229cb39d4a,Various sources,2017/11/06,,Malicious Named Pipe
+c0478ead-5336-46c2-bd5e-b4c84bc3a36e,https://securityriskadvisors.com/blog/post/detecting-in-memory-mimikatz/,2017/03/13,,Mimikatz In-Memory
+aa35a627-33fb-4d04-a165-d33b4afca3e8,https://pentestlab.blog/2018/05/15/lateral-movement-winrm/,2019/05/20,,Mimikatz through Windows Remote Management
+dd5ab153-beaa-4315-9647-65abc5f71541,Dumping Lsass.exe Memory with MiniDumpWriteDump API,https://docs.microsoft.com/en-us/windows/win32/api/minidumpapiset/nf-minidumpapiset-minidumpwritedump,27/10/2019,2019/11/13
+dd5ab153-beaa-4315-9647-65abc5f71541,Dumping Lsass.exe Memory with MiniDumpWriteDump API,https://www.pinvoke.net/default.aspx/dbghelp/MiniDumpWriteDump.html,27/10/2019,2019/11/13
+dd5ab153-beaa-4315-9647-65abc5f71541,Dumping Lsass.exe Memory with MiniDumpWriteDump API,https://medium.com/@fsx30/bypass-edrs-memory-protection-introduction-to-hooking-2efb21acffd6,27/10/2019,2019/11/13
+f663a6d9-9d1b-49b8-b2b1-0637914d199a,Narrator's Feedback-Hub Persistence,https://giuliocomi.blogspot.com/2019/10/abusing-windows-10-narrators-feedback.html,2019/10/25,2019/11/10
+6aa1d992-5925-4e9f-a49b-845e51d1de01,New DLL Added to AppCertDlls Registry Key,http://www.hexacorn.com/blog/2013/01/19/beyond-good-ol-run-key-part-3/,2019/10/25,2019/11/13
+6aa1d992-5925-4e9f-a49b-845e51d1de01,New DLL Added to AppCertDlls Registry Key,https://eqllib.readthedocs.io/en/latest/analytics/14f90406-10a0-4d36-a672-31cabe149f2f.html,2019/10/25,2019/11/13
+4f84b697-c9ed-4420-8ab5-e09af5b2345d,New DLL Added to AppInit_DLLs Registry Key,https://eqllib.readthedocs.io/en/latest/analytics/822dc4c5-b355-4df8-bd37-29c458997b8f.html,2019/10/25,2019/11/13
+f239b326-2f41-4d6b-9dfa-c846a60ef505,https://jpcertcc.github.io/ToolAnalysisResultSheet/details/WCE.htm,2017/02/19,,Password Dumper Remote Thread in LSASS
+eb07e747-2552-44cd-af36-b659ae0958e4,Possible DNS Rebinding,https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325,2019/10/25,2019/11/13
+0f9c21f1-6a73-4b0e-9809-cb562cb8d981,Possible Privilege Escalation via Service Permissions Weakness,https://speakerdeck.com/heirhabarov/hunting-for-privilege-escalation-in-windows-environment,2019/10/26,2019/11/11
+0f9c21f1-6a73-4b0e-9809-cb562cb8d981,Possible Privilege Escalation via Service Permissions Weakness,https://pentestlab.blog/2017/03/31/insecure-registry-permissions/,2019/10/26,2019/11/11
+867613fb-fa60-4497-a017-a82df74a172c,PowerShell Execution,https://github.com/hunters-forge/ThreatHunter-Playbook/blob/8869b7a58dba1cff63bae1d7ab923974b8c0539b/playbooks/WIN-190410151110.yaml,2019/09/12,2019/11/10
+f331aa1f-8c53-4fc3-b083-cc159bc971cb,https://raw.githubusercontent.com/Neo23x0/sigma/f35c50049fa896dff91ff545cb199319172701e8/rules/windows/powershell/powershell_malicious_commandlets.yml,2018/04/07,,Malicious PowerShell Commandlet Names
+1f21ec3f-810d-4b0e-8045-322202e22b4b,https://www.youtube.com/watch?v=DLtJTxMWZ2o,2017/03/13,,PowerShell Network Connections
+847def9e-924d-4e90-b7c4-5f581395a2b4,https://jpcertcc.github.io/ToolAnalysisResultSheet/details/QuarksPWDump.htm,2018/02/10,,QuarksPwDump Dump File
+db809f10-56ce-4420-8c86-d6a7d793c79c,https://www.slideshare.net/heirhabarov/hunting-for-credentials-dumping-in-windows-environment,2019/10/22,,Raw Disk Access Using Illegitimate Tools
+41904ebe-d56c-4904-b9ad-7a77bdf154b3,RDP Registry Modification,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/05_defense_evasion/T1112_Modify_Registry/enable_rdp_registry.md,2019/09/12,2019/11/10
+5f699bc5-5446-4a4a-a0b7-5ef2885a3eb4,https://twitter.com/SBousseaden/status/1096148422984384514,2019/02/16,,RDP Over Reverse SSH Tunnel
+171b67e1-74b4-460e-8d55-b331f3e32d67,https://blog.menasec.net/2019/02/threat-hunting-rdp-hijacking-via.html,2019/04/03,,RDP Sensitive Settings Changed
+9b0f8a61-91b2-464f-aceb-0527e0a45020,Windows Registry Persistence COM Key Linking,https://bohops.com/2018/08/18/abusing-the-com-registry-structure-part-2-loading-techniques-for-evasion-and-persistence/,2019/10/23,2019/11/07
+295a59c1-7b79-4b47-a930-df12c15fc9c2,Windows Registry Trust Record Modification,https://outflank.nl/blog/2018/01/16/hunting-for-evil-detect-macros-being-executed/,2020/02/19,2020/02/19
+295a59c1-7b79-4b47-a930-df12c15fc9c2,Windows Registry Trust Record Modification,http://az4n6.blogspot.com/2016/02/more-on-trust-records-macros-and.html,2020/02/19,2020/02/19
+c7e91a02-d771-4a6d-a700-42587e0b1095,Regsvr32 Network Activity,https://pentestlab.blog/2017/05/11/applocker-bypass-regsvr32/,2019/10/25,2019/11/10
+c7e91a02-d771-4a6d-a700-42587e0b1095,Regsvr32 Network Activity,https://oddvar.moe/2017/12/13/applocker-case-study-how-insecure-is-it-really-part-1/,2019/10/25,2019/11/10
+c7e91a02-d771-4a6d-a700-42587e0b1095,Regsvr32 Network Activity,https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1117/T1117.md,2019/10/25,2019/11/10
+c539afac-c12a-46ed-b1bd-5a5567c9f045,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/02_execution/T1086_powershell/powershell_remote_session.md,2019/09/12,,Remote PowerShell Session
+edd8a48c-1b9f-4ba1-83aa-490338cd1ccb,https://www.bitdefender.com/files/News/CaseStudies/study/262/Bitdefender-WhitePaper-An-APT-Blueprint-Gaining-New-Visibility-into-Financial-Threats-interactive.pdf,2019/06/04,,Renamed jusched.exe
+d178a2d7-129a-4ba4-8ee6-d6e1fecd5d20,https://twitter.com/christophetd/status/1164506034720952320,2019/08/22,,Renamed PowerShell
+4a0b2c7e-7cb2-495d-8b63-5f268e7bfd67,https://docs.microsoft.com/en-us/sysinternals/downloads/procdump,2019/11/18,,Renamed ProcDump
+a7a7e0e5-1d57-49df-9c58-9fe5bc0346a2,https://www.trendmicro.com/vinfo/hk-en/security/news/cybercrime-and-digital-threats/megacortex-ransomware-spotted-attacking-enterprise-networks,2019/05/21,,Renamed PsExec
+cdc8da7d-c303-42f8-b08c-b4ab47230263,https://www.hybrid-analysis.com/sample/759fb4c0091a78c5ee035715afe3084686a8493f39014aea72dae36869de9ff6?environmentId=100,2017/11/04,,Rundll32 Internet Connection
+eeb30123-9fbd-4ee8-aaa0-2e545bbed6dc,https://attack.mitre.org/techniques/T1101/,2019/01/18,,Security Support Provider (SSP) Added to LSA Configuration
+eeb30123-9fbd-4ee8-aaa0-2e545bbed6dc,https://powersploit.readthedocs.io/en/latest/Persistence/Install-SSP/,2019/01/18,,Security Support Provider (SSP) Added to LSA Configuration
+baca5663-583c-45f9-b5dc-ea96a22ce542,https://blogs.technet.microsoft.com/jonathantrull/2016/10/03/detecting-sticky-key-backdoors/,2018/03/15,,Sticky Key Like Backdoor Usage
+34aa0252-6039-40ff-951f-939fd6ce47d8,Suspicious Keyboard Layout Load,https://renenyffenegger.ch/notes/Windows/registry/tree/HKEY_CURRENT_USER/Keyboard-Layout/Preload/index,2019/10/12,2019/10/15
+34aa0252-6039-40ff-951f-939fd6ce47d8,Suspicious Keyboard Layout Load,https://github.com/SwiftOnSecurity/sysmon-config/pull/92/files,2019/10/12,2019/10/15
+e54979bd-c5f9-4d6c-967b-a04b19ac4c74,Suspicious Outbound Kerberos Connection,https://github.com/GhostPack/Rubeus8,2019/10/24,2019/11/13
+66d31e5f-52d6-40a4-9615-002d3789a119,Suspicious Remote Thread Created,"Personal research, statistical analysis",27/10/2019,2019/11/13
+66d31e5f-52d6-40a4-9615-002d3789a119,Suspicious Remote Thread Created,https://lolbas-project.github.io,27/10/2019,2019/11/13
+9c5037d1-c568-49b3-88c7-9846a5bdc2be,https://app.any.run/tasks/c5bef5b7-f484-4c43-9cf3-d5c5c7839def/,2019/10/01,,Suspicious RUN Key from Download
+2c4523d5-d481-4ed0-8ec3-7fbf0cb41a75,,2017/02/12,,Suspicious Driver Load from Temp
+9637e8a5-7131-4f7f-bdc7-2b05d8670c43,Suspicious File Characteristics Due to Missing Fields,https://securelist.com/muddywater/88059/,2018/11/22,2019/11/09
+9637e8a5-7131-4f7f-bdc7-2b05d8670c43,Suspicious File Characteristics Due to Missing Fields,https://www.virustotal.com/#/file/276a765a10f98cda1a38d3a31e7483585ca3722ecad19d784441293acf1b7beb/detection,2018/11/22,2019/11/09
+e32ce4f5-46c6-4c47-ba69-5de3c9193cd7,https://cyberwardog.blogspot.com/2017/03/chronicles-of-threat-hunter-hunting-for.html,2018/01/07,,Possible Process Hollowing Image Loading
+b3503044-60ce-4bf4-bbcb-e3db98788823,https://blog.xpnsec.com/exploring-mimikatz-part-1/,2019/10/16,,DLL Load via LSASS
+b3503044-60ce-4bf4-bbcb-e3db98788823,https://twitter.com/SBousseaden/status/1183745981189427200,2019/10/16,,DLL Load via LSASS
+ff0f2b05-09db-4095-b96d-1b75ca24894a,https://medium.com/threatpunter/detecting-adversary-tradecraft-with-image-load-event-logging-and-eql-8de93338c16,2020/02/19,,dotNET DLL Loaded Via Office Applications
+d13c43f0-f66b-4279-8b2c-5912077c1780,https://medium.com/threatpunter/detecting-adversary-tradecraft-with-image-load-event-logging-and-eql-8de93338c16,2020/02/19,,CLR DLL Loaded Via Office Applications
+90217a70-13fc-48e4-b3db-0d836c5824ac,https://medium.com/threatpunter/detecting-adversary-tradecraft-with-image-load-event-logging-and-eql-8de93338c16,2020/02/19,,GAC DLL Loaded Via Office Applications
+a2a3b925-7bb0-433b-b508-db9003263cc4,https://medium.com/threatpunter/detecting-adversary-tradecraft-with-image-load-event-logging-and-eql-8de93338c16,2020/02/19,,Active Directory Parsing DLL Loaded Via Office Applications
+7417e29e-c2e7-4cf6-a2e8-767228c64837,https://medium.com/threatpunter/detecting-adversary-tradecraft-with-image-load-event-logging-and-eql-8de93338c16,2020/02/19,,Active Directory Kerberos DLL Loaded Via Office Applications
+99b97608-3e21-4bfe-8217-2a127c396a0e,https://www.fireeye.com/blog/threat-research/2018/06/bring-your-own-land-novel-red-teaming-technique.html,2018/06/25,,PowerShell Rundll32 Remote Thread Creation
+7b434893-c57d-4f41-908d-6a17bf1ae98f,https://docs.google.com/spreadsheets/d/17pSTDNpa0sf6pHeRhusvWG6rThciE8CsXTSlDUAZDyo,2017/03/19,,Suspicious Program Location with Network Connections
+ed74fe75-7594-4b4b-ae38-e38e3fd2eb23,https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708,2019/05/15,,Suspicious Outbound RDP Connections
+b7916c2a-fa2f-4795-9477-32b731f70f11,https://researchcenter.paloaltonetworks.com/2018/07/unit42-upatre-continues-evolve-new-anti-analysis-techniques/,2018/07/18,,Registry Persistence via Explorer Run Key
+02ee49e2-e294-4d0f-9278-f5b3212fc588,New RUN Key Pointing to Suspicious Folder,https://www.fireeye.com/blog/threat-research/2018/08/fin7-pursuing-an-enigmatic-and-evasive-global-criminal-operation.html,2018/25/08,2020/02/26
+e6ce8457-68b1-485b-9bdd-3c2b5d679aa9,https://medium.com/threatpunter/detecting-adversary-tradecraft-with-image-load-event-logging-and-eql-8de93338c16,2020/02/19,,VBA DLL Loaded Via Microsoft Word
+a457f232-7df9-491d-898f-b5aabd2cbe2f,https://medium.com/threatpunter/detecting-adversary-tradecraft-with-image-load-event-logging-and-eql-8de93338c16,2019/12/26,,Windows Mangement Instrumentation DLL Loaded Via Microsoft Word
+a457f232-7df9-491d-898f-b5aabd2cbe2f,https://www.carbonblack.com/2019/04/24/cb-tau-threat-intelligence-notification-emotet-utilizing-wmi-to-launch-powershell-encoded-code/,2019/12/26,,Windows Mangement Instrumentation DLL Loaded Via Microsoft Word
+a457f232-7df9-491d-898f-b5aabd2cbe2f,https://media.cert.europa.eu/static/SecurityAdvisories/2019/CERT-EU-SA2019-021.pdf,2019/12/26,,Windows Mangement Instrumentation DLL Loaded Via Microsoft Word
+602a1f13-c640-4d73-b053-be9a2fa58b77,https://posts.specterops.io/lateral-movement-scm-and-dll-hijacking-primer-d2f61e8ab992,2019/10/28,,Svchost DLL Search Order Hijack
+25ffa65d-76d8-4da5-a832-3f2b0136e133,https://twitter.com/Moti_B/status/1008587936735035392,2017/08/28,,Usage of Sysinternals Tools
+52753ea4-b3a0-4365-910d-36cff487b789,,2019/02/21,,Hijack Legit RDP Session to Move Laterally
+7c81fec3-1c1d-43b0-996a-46753041b1b6,https://enigma0x3.net/2016/08/15/fileless-uac-bypass-using-eventvwr-exe-and-registry-hijacking/,2017/03/19,,UAC Bypass via Event Viewer
+7c81fec3-1c1d-43b0-996a-46753041b1b6,https://www.hybrid-analysis.com/sample/e122bc8bf291f15cab182a5d2d27b8db1e7019e4e96bb5cdbd1dfe7446f3f51f?environmentId=100,2017/03/19,,UAC Bypass via Event Viewer
+5b872a46-3b90-45c1-8419-f675db8053aa,https://enigma0x3.net/2017/03/17/fileless-uac-bypass-using-sdclt-exe/,2017/03/17,,UAC Bypass via Sdclt
+857c8db3-c89b-42fb-882b-f681c7cf4da2,Unsigned Image Loaded Into LSASS Process,https://www.slideshare.net/heirhabarov/hunting-for-credentials-dumping-in-windows-environment,2019/10/22,2019/11/13
+39f1f9f2-9636-45de-98f6-a4046aa8e4b9,Windows Webshell Creation,PT ESC rule and personal experience,2019/10/22,2019/11/04
+635dbb88-67b3-4b41-9ea5-a3af2dd88153,https://twitter.com/M_haggis/status/900741347035889665,2017/08/24,,Microsoft Binary Github Communication
+635dbb88-67b3-4b41-9ea5-a3af2dd88153,https://twitter.com/M_haggis/status/1032799638213066752,2017/08/24,,Microsoft Binary Github Communication
+e0f8ab85-0ac9-423b-a73a-81b3c7b1aa97,https://twitter.com/M_haggis/status/900741347035889665,2018/08/30,,Microsoft Binary Suspicious Communication Endpoint
+e0f8ab85-0ac9-423b-a73a-81b3c7b1aa97,https://twitter.com/M_haggis/status/1032799638213066752,2018/08/30,,Microsoft Binary Suspicious Communication Endpoint
+36803969-5421-41ec-b92f-8500f79c23b0,https://oddvar.moe/2018/04/10/persistence-using-globalflags-in-image-file-execution-options-hidden-from-autoruns-exe/,2018/04/11,,Registry Persistence Mechanisms
+0f06a3a5-6a09-413f-8743-e6cf35561297,https://attack.mitre.org/techniques/T1084/,2019/01/12,,WMI Event Subscription
+671bb7e3-a020-4824-a00e-2ee5b55f385e,WMI Modules Loaded,https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/tree/master/playbooks/windows/02_execution/T1047_windows_management_instrumentation/wmi_wmi_module_load.md,2019/08/10,2019/11/10
+05936ce2-ee05-4dae-9d03-9a391cf2d2c6,https://www.eideon.com/2018-03-02-THL03-WMIBackdoors/,2018/03/07,,WMI Persistence - Command Line Event Consumer
+33f41cdd-35ac-4ba8-814b-c6a4244a1ad4,https://www.eideon.com/2018-03-02-THL03-WMIBackdoors/,2018/03/07,,WMI Persistence - Script Event Consumer File Write
+fe21810c-2a8c-478f-8dd3-5a287fb2a0e0,https://in.security/an-intro-into-abusing-and-identifying-wmi-event-subscriptions-for-persistence/,2019/04/15,,Suspicious Scripting in a WMI Consumer
+fe21810c-2a8c-478f-8dd3-5a287fb2a0e0,https://github.com/Neo23x0/signature-base/blob/master/yara/gen_susp_lnk_files.yar#L19,2019/04/15,,Suspicious Scripting in a WMI Consumer
